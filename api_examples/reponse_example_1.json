@@ -1,3069 +1,2193 @@
 {
-    "0": {
-        "btc,$btc,bitcoin": [
+    "https://api.exorde.io/volume/history": {
+        "dogecoin": [
             {
-                "postsCount": 66375,
+                "postsCount": 1716,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "postsCount": 62670,
+                "postsCount": 1715,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "postsCount": 65392,
+                "postsCount": 2469,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "postsCount": 88062,
+                "postsCount": 2256,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "postsCount": 91407,
+                "postsCount": 2962,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "postsCount": 65259,
+                "postsCount": 2046,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "postsCount": 60302,
+                "postsCount": 1658,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "postsCount": 86026,
+                "postsCount": 1955,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "postsCount": 73679,
+                "postsCount": 1898,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "postsCount": 70889,
+                "postsCount": 1744,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "postsCount": 78743,
+                "postsCount": 1843,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "postsCount": 59102,
+                "postsCount": 1259,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "postsCount": 68640,
+                "postsCount": 1743,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "postsCount": 60831,
+                "postsCount": 1565,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "postsCount": 82199,
+                "postsCount": 1946,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "postsCount": 85814,
+                "postsCount": 2514,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "postsCount": 55636,
+                "postsCount": 1465,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "postsCount": 69131,
+                "postsCount": 1815,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "postsCount": 76690,
+                "postsCount": 1751,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "postsCount": 63767,
+                "postsCount": 2094,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "postsCount": 66502,
+                "postsCount": 2384,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "postsCount": 74553,
+                "postsCount": 2272,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "postsCount": 78589,
+                "postsCount": 2243,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "postsCount": 76654,
+                "postsCount": 1847,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "postsCount": 80735,
+                "postsCount": 2083,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "postsCount": 80461,
+                "postsCount": 2008,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "postsCount": 96372,
+                "postsCount": 2001,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "postsCount": 81917,
+                "postsCount": 1875,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "postsCount": 89941,
+                "postsCount": 2071,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "postsCount": 75866,
+                "postsCount": 2099,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "postsCount": 72576,
+                "postsCount": 1949,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "eth,$eth,ethereum": [
+        "shiba": [
             {
-                "postsCount": 62018,
+                "postsCount": 1869,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "postsCount": 61513,
+                "postsCount": 1931,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "postsCount": 58913,
+                "postsCount": 1581,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "postsCount": 67103,
+                "postsCount": 1493,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "postsCount": 64370,
+                "postsCount": 1374,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "postsCount": 61280,
+                "postsCount": 2055,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "postsCount": 54862,
+                "postsCount": 1882,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "postsCount": 74073,
+                "postsCount": 1966,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "postsCount": 70670,
+                "postsCount": 1797,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "postsCount": 76389,
+                "postsCount": 1456,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "postsCount": 71246,
+                "postsCount": 1716,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "postsCount": 48395,
+                "postsCount": 1165,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "postsCount": 62179,
+                "postsCount": 1628,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "postsCount": 55567,
+                "postsCount": 1358,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "postsCount": 65993,
+                "postsCount": 1241,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "postsCount": 72652,
+                "postsCount": 1500,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "postsCount": 50028,
+                "postsCount": 1290,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "postsCount": 62290,
+                "postsCount": 1719,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "postsCount": 62905,
+                "postsCount": 1446,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "postsCount": 60269,
+                "postsCount": 1493,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "postsCount": 58509,
+                "postsCount": 1155,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "postsCount": 69183,
+                "postsCount": 1209,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "postsCount": 90017,
+                "postsCount": 1305,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "postsCount": 79408,
+                "postsCount": 1176,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "postsCount": 77485,
+                "postsCount": 1132,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "postsCount": 68410,
+                "postsCount": 1153,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "postsCount": 59489,
+                "postsCount": 1447,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "postsCount": 56739,
+                "postsCount": 1126,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "postsCount": 67891,
+                "postsCount": 1142,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "postsCount": 69047,
+                "postsCount": 1025,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "postsCount": 68899,
+                "postsCount": 1103,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "doge,$doge,dogecoin": [
+        "safemoon": [
             {
-                "postsCount": 9069,
+                "postsCount": 0,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "postsCount": 8953,
+                "postsCount": 0,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "postsCount": 9552,
+                "postsCount": 0,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "postsCount": 9144,
+                "postsCount": 0,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "postsCount": 10399,
+                "postsCount": 0,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "postsCount": 8617,
+                "postsCount": 0,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "postsCount": 7676,
+                "postsCount": 0,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "postsCount": 8899,
+                "postsCount": 0,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "postsCount": 9083,
+                "postsCount": 0,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "postsCount": 8756,
+                "postsCount": 0,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "postsCount": 9690,
+                "postsCount": 0,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "postsCount": 6502,
+                "postsCount": 0,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "postsCount": 8085,
+                "postsCount": 0,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "postsCount": 7993,
+                "postsCount": 0,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "postsCount": 10871,
+                "postsCount": 0,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "postsCount": 12038,
+                "postsCount": 0,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "postsCount": 7275,
+                "postsCount": 0,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "postsCount": 8540,
+                "postsCount": 0,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "postsCount": 8708,
+                "postsCount": 0,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "postsCount": 9299,
+                "postsCount": 0,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "postsCount": 10582,
+                "postsCount": 0,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "postsCount": 10599,
+                "postsCount": 0,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "postsCount": 10352,
+                "postsCount": 0,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "postsCount": 8705,
+                "postsCount": 0,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "postsCount": 9008,
+                "postsCount": 0,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "postsCount": 9462,
+                "postsCount": 0,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "postsCount": 9286,
+                "postsCount": 0,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "postsCount": 10045,
+                "postsCount": 0,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "postsCount": 11946,
+                "postsCount": 0,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "postsCount": 9934,
+                "postsCount": 0,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "postsCount": 10525,
+                "postsCount": 0,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "shiba,$shiba,shiba inu": [
+        "pepe": [
             {
-                "postsCount": 4039,
+                "postsCount": 11,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "postsCount": 4247,
+                "postsCount": 30,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "postsCount": 3673,
+                "postsCount": 19,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "postsCount": 3369,
+                "postsCount": 14,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "postsCount": 3242,
+                "postsCount": 20,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "postsCount": 4174,
+                "postsCount": 10,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "postsCount": 3707,
+                "postsCount": 13,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "postsCount": 4302,
+                "postsCount": 17,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "postsCount": 4010,
+                "postsCount": 19,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "postsCount": 3533,
+                "postsCount": 23,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "postsCount": 4053,
+                "postsCount": 19,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "postsCount": 2694,
+                "postsCount": 19,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "postsCount": 3423,
+                "postsCount": 18,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "postsCount": 2922,
+                "postsCount": 31,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "postsCount": 3277,
+                "postsCount": 18,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "postsCount": 3852,
+                "postsCount": 13,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "postsCount": 2816,
+                "postsCount": 16,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "postsCount": 3677,
+                "postsCount": 13,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "postsCount": 3218,
+                "postsCount": 16,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "postsCount": 3322,
+                "postsCount": 66,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "postsCount": 2817,
+                "postsCount": 33,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "postsCount": 3180,
+                "postsCount": 14,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "postsCount": 3393,
+                "postsCount": 16,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "postsCount": 3154,
+                "postsCount": 24,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "postsCount": 3031,
+                "postsCount": 20,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "postsCount": 2721,
+                "postsCount": 21,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "postsCount": 3393,
+                "postsCount": 19,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "postsCount": 2853,
+                "postsCount": 21,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "postsCount": 2847,
+                "postsCount": 9,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "postsCount": 2725,
+                "postsCount": 20,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "postsCount": 2510,
+                "postsCount": 8,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "safemoon,$safemoon": [
+        "wif": [
             {
-                "postsCount": 60,
+                "postsCount": 6,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "postsCount": 63,
+                "postsCount": 4,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "postsCount": 63,
+                "postsCount": 2,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "postsCount": 61,
+                "postsCount": 8,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "postsCount": 29,
+                "postsCount": 1,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "postsCount": 47,
+                "postsCount": 6,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "postsCount": 39,
+                "postsCount": 5,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "postsCount": 65,
+                "postsCount": 6,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "postsCount": 35,
+                "postsCount": 2,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "postsCount": 56,
+                "postsCount": 6,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "postsCount": 106,
+                "postsCount": 0,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "postsCount": 40,
+                "postsCount": 4,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "postsCount": 43,
+                "postsCount": 2,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "postsCount": 22,
+                "postsCount": 1,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "postsCount": 47,
+                "postsCount": 10,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "postsCount": 52,
+                "postsCount": 10,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "postsCount": 53,
+                "postsCount": 2,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "postsCount": 47,
+                "postsCount": 8,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "postsCount": 72,
+                "postsCount": 3,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "postsCount": 63,
+                "postsCount": 3,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "postsCount": 90,
+                "postsCount": 3,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "postsCount": 57,
+                "postsCount": 5,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "postsCount": 71,
+                "postsCount": 2,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "postsCount": 53,
+                "postsCount": 4,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "postsCount": 52,
+                "postsCount": 10,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "postsCount": 42,
+                "postsCount": 2,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "postsCount": 53,
+                "postsCount": 5,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "postsCount": 46,
+                "postsCount": 7,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "postsCount": 34,
+                "postsCount": 2,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "postsCount": 39,
+                "postsCount": 0,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "postsCount": 53,
-                "startDate": "2024-07-31T00:00:00.000Z",
-                "endDate": "2024-08-01T00:00:00.000Z"
-            }
-        ],
-        "pepe,pepecoin,$pepe,pepe token": [
-            {
-                "postsCount": 13644,
-                "startDate": "2024-07-01T00:00:00.000Z",
-                "endDate": "2024-07-02T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12460,
-                "startDate": "2024-07-02T00:00:00.000Z",
-                "endDate": "2024-07-03T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10822,
-                "startDate": "2024-07-03T00:00:00.000Z",
-                "endDate": "2024-07-04T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10710,
-                "startDate": "2024-07-04T00:00:00.000Z",
-                "endDate": "2024-07-05T00:00:00.000Z"
-            },
-            {
-                "postsCount": 14229,
-                "startDate": "2024-07-05T00:00:00.000Z",
-                "endDate": "2024-07-06T00:00:00.000Z"
-            },
-            {
-                "postsCount": 15653,
-                "startDate": "2024-07-06T00:00:00.000Z",
-                "endDate": "2024-07-07T00:00:00.000Z"
-            },
-            {
-                "postsCount": 9949,
-                "startDate": "2024-07-07T00:00:00.000Z",
-                "endDate": "2024-07-08T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12713,
-                "startDate": "2024-07-08T00:00:00.000Z",
-                "endDate": "2024-07-09T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12189,
-                "startDate": "2024-07-09T00:00:00.000Z",
-                "endDate": "2024-07-10T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12426,
-                "startDate": "2024-07-10T00:00:00.000Z",
-                "endDate": "2024-07-11T00:00:00.000Z"
-            },
-            {
-                "postsCount": 11931,
-                "startDate": "2024-07-11T00:00:00.000Z",
-                "endDate": "2024-07-12T00:00:00.000Z"
-            },
-            {
-                "postsCount": 8631,
-                "startDate": "2024-07-12T00:00:00.000Z",
-                "endDate": "2024-07-13T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10201,
-                "startDate": "2024-07-13T00:00:00.000Z",
-                "endDate": "2024-07-14T00:00:00.000Z"
-            },
-            {
-                "postsCount": 8485,
-                "startDate": "2024-07-14T00:00:00.000Z",
-                "endDate": "2024-07-15T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12283,
-                "startDate": "2024-07-15T00:00:00.000Z",
-                "endDate": "2024-07-16T00:00:00.000Z"
-            },
-            {
-                "postsCount": 28547,
-                "startDate": "2024-07-16T00:00:00.000Z",
-                "endDate": "2024-07-17T00:00:00.000Z"
-            },
-            {
-                "postsCount": 24545,
-                "startDate": "2024-07-17T00:00:00.000Z",
-                "endDate": "2024-07-18T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23666,
-                "startDate": "2024-07-18T00:00:00.000Z",
-                "endDate": "2024-07-19T00:00:00.000Z"
-            },
-            {
-                "postsCount": 11314,
-                "startDate": "2024-07-19T00:00:00.000Z",
-                "endDate": "2024-07-20T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10396,
-                "startDate": "2024-07-20T00:00:00.000Z",
-                "endDate": "2024-07-21T00:00:00.000Z"
-            },
-            {
-                "postsCount": 9777,
-                "startDate": "2024-07-21T00:00:00.000Z",
-                "endDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "postsCount": 11095,
-                "startDate": "2024-07-22T00:00:00.000Z",
-                "endDate": "2024-07-23T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10912,
-                "startDate": "2024-07-23T00:00:00.000Z",
-                "endDate": "2024-07-24T00:00:00.000Z"
-            },
-            {
-                "postsCount": 11674,
-                "startDate": "2024-07-24T00:00:00.000Z",
-                "endDate": "2024-07-25T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12048,
-                "startDate": "2024-07-25T00:00:00.000Z",
-                "endDate": "2024-07-26T00:00:00.000Z"
-            },
-            {
-                "postsCount": 12068,
-                "startDate": "2024-07-26T00:00:00.000Z",
-                "endDate": "2024-07-27T00:00:00.000Z"
-            },
-            {
-                "postsCount": 11595,
-                "startDate": "2024-07-27T00:00:00.000Z",
-                "endDate": "2024-07-28T00:00:00.000Z"
-            },
-            {
-                "postsCount": 9968,
-                "startDate": "2024-07-28T00:00:00.000Z",
-                "endDate": "2024-07-29T00:00:00.000Z"
-            },
-            {
-                "postsCount": 11386,
-                "startDate": "2024-07-29T00:00:00.000Z",
-                "endDate": "2024-07-30T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10400,
-                "startDate": "2024-07-30T00:00:00.000Z",
-                "endDate": "2024-07-31T00:00:00.000Z"
-            },
-            {
-                "postsCount": 10735,
-                "startDate": "2024-07-31T00:00:00.000Z",
-                "endDate": "2024-08-01T00:00:00.000Z"
-            }
-        ],
-        "wif,$wif,wif token,wif coin,wif finance": [
-            {
-                "postsCount": 19379,
-                "startDate": "2024-07-01T00:00:00.000Z",
-                "endDate": "2024-07-02T00:00:00.000Z"
-            },
-            {
-                "postsCount": 19663,
-                "startDate": "2024-07-02T00:00:00.000Z",
-                "endDate": "2024-07-03T00:00:00.000Z"
-            },
-            {
-                "postsCount": 18272,
-                "startDate": "2024-07-03T00:00:00.000Z",
-                "endDate": "2024-07-04T00:00:00.000Z"
-            },
-            {
-                "postsCount": 17969,
-                "startDate": "2024-07-04T00:00:00.000Z",
-                "endDate": "2024-07-05T00:00:00.000Z"
-            },
-            {
-                "postsCount": 19100,
-                "startDate": "2024-07-05T00:00:00.000Z",
-                "endDate": "2024-07-06T00:00:00.000Z"
-            },
-            {
-                "postsCount": 19728,
-                "startDate": "2024-07-06T00:00:00.000Z",
-                "endDate": "2024-07-07T00:00:00.000Z"
-            },
-            {
-                "postsCount": 16579,
-                "startDate": "2024-07-07T00:00:00.000Z",
-                "endDate": "2024-07-08T00:00:00.000Z"
-            },
-            {
-                "postsCount": 20770,
-                "startDate": "2024-07-08T00:00:00.000Z",
-                "endDate": "2024-07-09T00:00:00.000Z"
-            },
-            {
-                "postsCount": 22037,
-                "startDate": "2024-07-09T00:00:00.000Z",
-                "endDate": "2024-07-10T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23800,
-                "startDate": "2024-07-10T00:00:00.000Z",
-                "endDate": "2024-07-11T00:00:00.000Z"
-            },
-            {
-                "postsCount": 22717,
-                "startDate": "2024-07-11T00:00:00.000Z",
-                "endDate": "2024-07-12T00:00:00.000Z"
-            },
-            {
-                "postsCount": 17666,
-                "startDate": "2024-07-12T00:00:00.000Z",
-                "endDate": "2024-07-13T00:00:00.000Z"
-            },
-            {
-                "postsCount": 21709,
-                "startDate": "2024-07-13T00:00:00.000Z",
-                "endDate": "2024-07-14T00:00:00.000Z"
-            },
-            {
-                "postsCount": 19453,
-                "startDate": "2024-07-14T00:00:00.000Z",
-                "endDate": "2024-07-15T00:00:00.000Z"
-            },
-            {
-                "postsCount": 21798,
-                "startDate": "2024-07-15T00:00:00.000Z",
-                "endDate": "2024-07-16T00:00:00.000Z"
-            },
-            {
-                "postsCount": 24242,
-                "startDate": "2024-07-16T00:00:00.000Z",
-                "endDate": "2024-07-17T00:00:00.000Z"
-            },
-            {
-                "postsCount": 17146,
-                "startDate": "2024-07-17T00:00:00.000Z",
-                "endDate": "2024-07-18T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23269,
-                "startDate": "2024-07-18T00:00:00.000Z",
-                "endDate": "2024-07-19T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23880,
-                "startDate": "2024-07-19T00:00:00.000Z",
-                "endDate": "2024-07-20T00:00:00.000Z"
-            },
-            {
-                "postsCount": 21827,
-                "startDate": "2024-07-20T00:00:00.000Z",
-                "endDate": "2024-07-21T00:00:00.000Z"
-            },
-            {
-                "postsCount": 22522,
-                "startDate": "2024-07-21T00:00:00.000Z",
-                "endDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "postsCount": 25351,
-                "startDate": "2024-07-22T00:00:00.000Z",
-                "endDate": "2024-07-23T00:00:00.000Z"
-            },
-            {
-                "postsCount": 22892,
-                "startDate": "2024-07-23T00:00:00.000Z",
-                "endDate": "2024-07-24T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23986,
-                "startDate": "2024-07-24T00:00:00.000Z",
-                "endDate": "2024-07-25T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23926,
-                "startDate": "2024-07-25T00:00:00.000Z",
-                "endDate": "2024-07-26T00:00:00.000Z"
-            },
-            {
-                "postsCount": 25344,
-                "startDate": "2024-07-26T00:00:00.000Z",
-                "endDate": "2024-07-27T00:00:00.000Z"
-            },
-            {
-                "postsCount": 26082,
-                "startDate": "2024-07-27T00:00:00.000Z",
-                "endDate": "2024-07-28T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23162,
-                "startDate": "2024-07-28T00:00:00.000Z",
-                "endDate": "2024-07-29T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23976,
-                "startDate": "2024-07-29T00:00:00.000Z",
-                "endDate": "2024-07-30T00:00:00.000Z"
-            },
-            {
-                "postsCount": 23327,
-                "startDate": "2024-07-30T00:00:00.000Z",
-                "endDate": "2024-07-31T00:00:00.000Z"
-            },
-            {
-                "postsCount": 21665,
+                "postsCount": 1,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ]
     },
-    "1": {
-        "btc,$btc,bitcoin": [
+    "https://api.exorde.io/sentiment/history": {
+        "dogecoin": [
             {
-                "percentagePositivePosts": 63.46666666666667,
-                "percentageNegativePosts": 28.56497175141243,
-                "percentageNeutralPosts": 7.968361581920904,
-                "sentiment": 0.1633602711864407,
-                "postsCount": 66375,
+                "percentagePositivePosts": 62.17948717948718,
+                "percentageNegativePosts": 27.447552447552447,
+                "percentageNeutralPosts": 10.372960372960373,
+                "sentiment": 0.14684149184149184,
+                "postsCount": 1716,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 62.265836923567896,
-                "percentageNegativePosts": 28.81442476464018,
-                "percentageNeutralPosts": 8.919738311791926,
-                "sentiment": 0.15904384873145047,
-                "postsCount": 62670,
+                "percentagePositivePosts": 61.51603498542274,
+                "percentageNegativePosts": 28.0466472303207,
+                "percentageNeutralPosts": 10.43731778425656,
+                "sentiment": 0.1545685247813411,
+                "postsCount": 1715,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 59.07450452654759,
-                "percentageNegativePosts": 32.61713971127967,
-                "percentageNeutralPosts": 8.308355762172743,
-                "sentiment": 0.11820730364570589,
-                "postsCount": 65392,
+                "percentagePositivePosts": 62.21142162818955,
+                "percentageNegativePosts": 28.027541514783312,
+                "percentageNeutralPosts": 9.761036857027136,
+                "sentiment": 0.16565616443904416,
+                "postsCount": 2469,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.57718425654652,
-                "percentageNegativePosts": 36.132497558538304,
-                "percentageNeutralPosts": 7.290318184915173,
-                "sentiment": 0.06411096386636687,
-                "postsCount": 88062,
+                "percentagePositivePosts": 56.87056737588652,
+                "percentageNegativePosts": 32.6241134751773,
+                "percentageNeutralPosts": 10.50531914893617,
+                "sentiment": 0.10589317375886526,
+                "postsCount": 2256,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 49.75548918572976,
-                "percentageNegativePosts": 42.068988151892086,
-                "percentageNeutralPosts": 8.175522662378155,
-                "sentiment": 0.02216170643386174,
-                "postsCount": 91407,
+                "percentagePositivePosts": 50.168804861580014,
+                "percentageNegativePosts": 39.09520594193113,
+                "percentageNeutralPosts": 10.735989196488859,
+                "sentiment": 0.039010800135043884,
+                "postsCount": 2962,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.58627928714813,
-                "percentageNegativePosts": 31.790251153097657,
-                "percentageNeutralPosts": 7.62346955975421,
-                "sentiment": 0.10757795399868217,
-                "postsCount": 65259,
+                "percentagePositivePosts": 60.75268817204301,
+                "percentageNegativePosts": 28.396871945259043,
+                "percentageNeutralPosts": 10.850439882697946,
+                "sentiment": 0.13494865591397848,
+                "postsCount": 2046,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 59.90680242778017,
-                "percentageNegativePosts": 32.61915027693941,
-                "percentageNeutralPosts": 7.474047295280422,
-                "sentiment": 0.10157678020629499,
-                "postsCount": 60302,
+                "percentagePositivePosts": 62.78648974668275,
+                "percentageNegativePosts": 28.166465621230397,
+                "percentageNeutralPosts": 9.047044632086852,
+                "sentiment": 0.12984619420989144,
+                "postsCount": 1658,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.446283681677635,
-                "percentageNegativePosts": 33.91416548485341,
-                "percentageNeutralPosts": 7.6395508334689515,
-                "sentiment": 0.08891211959175133,
-                "postsCount": 86026,
+                "percentagePositivePosts": 54.066496163682864,
+                "percentageNegativePosts": 34.168797953964194,
+                "percentageNeutralPosts": 11.764705882352942,
+                "sentiment": 0.056450127877237855,
+                "postsCount": 1955,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 59.19597171514271,
-                "percentageNegativePosts": 32.718956554784945,
-                "percentageNeutralPosts": 8.085071730072341,
-                "sentiment": 0.11429886399109651,
-                "postsCount": 73679,
+                "percentagePositivePosts": 62.53951527924131,
+                "percentageNegativePosts": 27.9768177028451,
+                "percentageNeutralPosts": 9.483667017913593,
+                "sentiment": 0.1456954373024236,
+                "postsCount": 1898,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 59.70460861346612,
-                "percentageNegativePosts": 32.388663967611336,
-                "percentageNeutralPosts": 7.906727418922541,
-                "sentiment": 0.12046842246328768,
-                "postsCount": 70889,
+                "percentagePositivePosts": 59.231651376146786,
+                "percentageNegativePosts": 29.81651376146789,
+                "percentageNeutralPosts": 10.95183486238532,
+                "sentiment": 0.13456995412844036,
+                "postsCount": 1744,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 61.25496869563009,
-                "percentageNegativePosts": 30.835756829178468,
-                "percentageNeutralPosts": 7.909274475191445,
-                "sentiment": 0.1145514902912005,
-                "postsCount": 78743,
+                "percentagePositivePosts": 62.88659793814433,
+                "percentageNegativePosts": 27.61801410743353,
+                "percentageNeutralPosts": 9.495387954422139,
+                "sentiment": 0.14187194791101468,
+                "postsCount": 1843,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.63087543568746,
-                "percentageNegativePosts": 33.84318635579168,
-                "percentageNeutralPosts": 8.525938208520863,
-                "sentiment": 0.09389189367534094,
-                "postsCount": 59102,
+                "percentagePositivePosts": 60.84193804606831,
+                "percentageNegativePosts": 29.070691024622718,
+                "percentageNeutralPosts": 10.087370929308975,
+                "sentiment": 0.1503614058776807,
+                "postsCount": 1259,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 63.3289627039627,
-                "percentageNegativePosts": 29.632867132867133,
-                "percentageNeutralPosts": 7.038170163170163,
-                "sentiment": 0.12755161713286714,
-                "postsCount": 68640,
+                "percentagePositivePosts": 55.70854847963282,
+                "percentageNegativePosts": 34.93975903614458,
+                "percentageNeutralPosts": 9.351692484222605,
+                "sentiment": 0.09569706827309238,
+                "postsCount": 1743,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 61.054396606993144,
-                "percentageNegativePosts": 30.972694843089872,
-                "percentageNeutralPosts": 7.972908549916983,
-                "sentiment": 0.1373482599332577,
-                "postsCount": 60831,
+                "percentagePositivePosts": 60.191693290734825,
+                "percentageNegativePosts": 29.201277955271564,
+                "percentageNeutralPosts": 10.60702875399361,
+                "sentiment": 0.1223418338658147,
+                "postsCount": 1565,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 62.92169004489106,
-                "percentageNegativePosts": 28.95534008929549,
-                "percentageNeutralPosts": 8.122969865813452,
-                "sentiment": 0.15773884110512293,
-                "postsCount": 82199,
+                "percentagePositivePosts": 60.585817060637204,
+                "percentageNegativePosts": 28.26310380267215,
+                "percentageNeutralPosts": 11.151079136690647,
+                "sentiment": 0.1407194398766701,
+                "postsCount": 1946,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.894492740112334,
-                "percentageNegativePosts": 30.93667699909106,
-                "percentageNeutralPosts": 8.168830260796607,
-                "sentiment": 0.13030020742536183,
-                "postsCount": 85814,
+                "percentagePositivePosts": 63.52426412092283,
+                "percentageNegativePosts": 26.05409705648369,
+                "percentageNeutralPosts": 10.421638822593476,
+                "sentiment": 0.18085721957040574,
+                "postsCount": 2514,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 61.14206628801495,
-                "percentageNegativePosts": 30.417355668991302,
-                "percentageNeutralPosts": 8.440578042993746,
-                "sentiment": 0.14260054640880007,
-                "postsCount": 55636,
+                "percentagePositivePosts": 58.02047781569966,
+                "percentageNegativePosts": 30.98976109215017,
+                "percentageNeutralPosts": 10.98976109215017,
+                "sentiment": 0.12407507849829352,
+                "postsCount": 1465,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 62.44521271209732,
-                "percentageNegativePosts": 29.899755536589954,
-                "percentageNeutralPosts": 7.655031751312725,
-                "sentiment": 0.12889775932649608,
-                "postsCount": 69131,
+                "percentagePositivePosts": 61.65289256198347,
+                "percentageNegativePosts": 27.713498622589533,
+                "percentageNeutralPosts": 10.633608815426998,
+                "sentiment": 0.14980440771349862,
+                "postsCount": 1815,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 63.59368887729821,
-                "percentageNegativePosts": 28.780805841700353,
-                "percentageNeutralPosts": 7.625505281001434,
-                "sentiment": 0.1371853566305907,
-                "postsCount": 76690,
+                "percentagePositivePosts": 62.535693889206165,
+                "percentageNegativePosts": 27.298686464877214,
+                "percentageNeutralPosts": 10.16561964591662,
+                "sentiment": 0.15294690462592803,
+                "postsCount": 1751,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 62.38336443615036,
-                "percentageNegativePosts": 29.57485846911412,
-                "percentageNeutralPosts": 8.041777094735522,
-                "sentiment": 0.13758953690780498,
-                "postsCount": 63767,
+                "percentagePositivePosts": 64.66093600764088,
+                "percentageNegativePosts": 23.638968481375358,
+                "percentageNeutralPosts": 11.700095510983763,
+                "sentiment": 0.14831425023877745,
+                "postsCount": 2094,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.15608553126222,
-                "percentageNegativePosts": 31.053201407476468,
-                "percentageNeutralPosts": 8.790713061261316,
-                "sentiment": 0.12069116116808516,
-                "postsCount": 66502,
+                "percentagePositivePosts": 63.92617449664429,
+                "percentageNegativePosts": 25.75503355704698,
+                "percentageNeutralPosts": 10.318791946308725,
+                "sentiment": 0.1437835696308725,
+                "postsCount": 2384,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 61.334889273402815,
-                "percentageNegativePosts": 30.138290880313335,
-                "percentageNeutralPosts": 8.526819846283852,
-                "sentiment": 0.13396766059045245,
-                "postsCount": 74553,
+                "percentagePositivePosts": 64.65669014084507,
+                "percentageNegativePosts": 24.20774647887324,
+                "percentageNeutralPosts": 11.13556338028169,
+                "sentiment": 0.17003959507042254,
+                "postsCount": 2272,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.17466821056382,
-                "percentageNegativePosts": 33.807530315947524,
-                "percentageNeutralPosts": 9.017801473488657,
-                "sentiment": 0.10759680107903141,
-                "postsCount": 78589,
+                "percentagePositivePosts": 63.62015158270174,
+                "percentageNegativePosts": 25.18947837717343,
+                "percentageNeutralPosts": 11.190370040124833,
+                "sentiment": 0.16316987070887207,
+                "postsCount": 2243,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 59.02236021603569,
-                "percentageNegativePosts": 32.04268531322566,
-                "percentageNeutralPosts": 8.934954470738644,
-                "sentiment": 0.12047157356432803,
-                "postsCount": 76654,
+                "percentagePositivePosts": 59.989171629669734,
+                "percentageNegativePosts": 28.803465078505685,
+                "percentageNeutralPosts": 11.20736329182458,
+                "sentiment": 0.13129127233351381,
+                "postsCount": 1847,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.81383538737846,
-                "percentageNegativePosts": 33.80442187403233,
-                "percentageNeutralPosts": 8.381742738589212,
-                "sentiment": 0.09874338267170371,
-                "postsCount": 80735,
+                "percentagePositivePosts": 57.177148343735,
+                "percentageNegativePosts": 32.26116178588574,
+                "percentageNeutralPosts": 10.561689870379261,
+                "sentiment": 0.09928948631781084,
+                "postsCount": 2083,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.84438423584097,
-                "percentageNegativePosts": 30.316550875579473,
-                "percentageNeutralPosts": 8.83906488857956,
-                "sentiment": 0.1282006189333963,
-                "postsCount": 80461,
+                "percentagePositivePosts": 62.101593625498005,
+                "percentageNegativePosts": 27.141434262948206,
+                "percentageNeutralPosts": 10.756972111553784,
+                "sentiment": 0.1378411503984064,
+                "postsCount": 2008,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.13070186361184,
-                "percentageNegativePosts": 33.554351886440045,
-                "percentageNeutralPosts": 9.314946249948118,
-                "sentiment": 0.09733100900676546,
-                "postsCount": 96372,
+                "percentagePositivePosts": 59.1704147926037,
+                "percentageNegativePosts": 29.235382308845576,
+                "percentageNeutralPosts": 11.594202898550725,
+                "sentiment": 0.1418415692153923,
+                "postsCount": 2001,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 54.994689746938974,
-                "percentageNegativePosts": 36.18418643260862,
-                "percentageNeutralPosts": 8.821123820452408,
-                "sentiment": 0.08106662109208101,
-                "postsCount": 81917,
+                "percentagePositivePosts": 60.21333333333333,
+                "percentageNegativePosts": 29.546666666666667,
+                "percentageNeutralPosts": 10.24,
+                "sentiment": 0.13452799466666668,
+                "postsCount": 1875,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.85236988692587,
-                "percentageNegativePosts": 33.58201487641899,
-                "percentageNeutralPosts": 8.565615236655141,
-                "sentiment": 0.10378080074715647,
-                "postsCount": 89941,
+                "percentagePositivePosts": 58.2810236600676,
+                "percentageNegativePosts": 29.309512312892323,
+                "percentageNeutralPosts": 12.409464027040077,
+                "sentiment": 0.12688074360212456,
+                "postsCount": 2071,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.8080563098094,
-                "percentageNegativePosts": 34.78501568555084,
-                "percentageNeutralPosts": 8.40692800463976,
-                "sentiment": 0.08896645796535999,
-                "postsCount": 75866,
+                "percentagePositivePosts": 58.599333015721776,
+                "percentageNegativePosts": 30.63363506431634,
+                "percentageNeutralPosts": 10.767031919961887,
+                "sentiment": 0.1293615864697475,
+                "postsCount": 2099,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.15007716049383,
-                "percentageNegativePosts": 33.33884479717813,
-                "percentageNeutralPosts": 8.511078042328043,
-                "sentiment": 0.09442922453703703,
-                "postsCount": 72576,
+                "percentagePositivePosts": 58.85069266290405,
+                "percentageNegativePosts": 28.21959979476655,
+                "percentageNeutralPosts": 12.9297075423294,
+                "sentiment": 0.1364545818368394,
+                "postsCount": 1949,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "eth,$eth,ethereum": [
+        "shiba": [
             {
-                "percentagePositivePosts": 52.141313812119066,
-                "percentageNegativePosts": 40.857492985907314,
-                "percentageNeutralPosts": 7.001193201973621,
-                "sentiment": 0.04994574478377245,
-                "postsCount": 62018,
+                "percentagePositivePosts": 66.39914392723381,
+                "percentageNegativePosts": 27.01979668271803,
+                "percentageNeutralPosts": 6.581059390048154,
+                "sentiment": 0.23833332263242374,
+                "postsCount": 1869,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.28813421553168,
-                "percentageNegativePosts": 40.19638125274332,
-                "percentageNeutralPosts": 7.515484531725002,
-                "sentiment": 0.046830250516151056,
-                "postsCount": 61513,
+                "percentagePositivePosts": 60.90108751941999,
+                "percentageNegativePosts": 31.538063179699638,
+                "percentageNeutralPosts": 7.560849300880373,
+                "sentiment": 0.17188503366131538,
+                "postsCount": 1931,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 51.866311340451176,
-                "percentageNegativePosts": 40.48002987456079,
-                "percentageNeutralPosts": 7.653658784988033,
-                "sentiment": 0.04651674503080814,
-                "postsCount": 58913,
+                "percentagePositivePosts": 62.04933586337761,
+                "percentageNegativePosts": 28.842504743833018,
+                "percentageNeutralPosts": 9.108159392789373,
+                "sentiment": 0.17047435800126504,
+                "postsCount": 1581,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.84102052069207,
-                "percentageNegativePosts": 37.98488890213552,
-                "percentageNeutralPosts": 6.174090577172406,
-                "sentiment": 0.07095573968376973,
-                "postsCount": 67103,
+                "percentagePositivePosts": 52.84661754855995,
+                "percentageNegativePosts": 38.44608171466845,
+                "percentageNeutralPosts": 8.7073007367716,
+                "sentiment": 0.09346619557937039,
+                "postsCount": 1493,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 48.87991300295169,
-                "percentageNegativePosts": 44.30169333540469,
-                "percentageNeutralPosts": 6.818393661643623,
-                "sentiment": 0.02100248096939568,
-                "postsCount": 64370,
+                "percentagePositivePosts": 52.838427947598255,
+                "percentageNegativePosts": 40.68413391557496,
+                "percentageNeutralPosts": 6.477438136826783,
+                "sentiment": 0.07627728529839883,
+                "postsCount": 1374,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.89817232375979,
-                "percentageNegativePosts": 40.32310704960835,
-                "percentageNeutralPosts": 6.778720626631854,
-                "sentiment": 0.05568700718015666,
-                "postsCount": 61280,
+                "percentagePositivePosts": 54.89051094890511,
+                "percentageNegativePosts": 36.885644768856444,
+                "percentageNeutralPosts": 8.223844282238442,
+                "sentiment": 0.11243796107055962,
+                "postsCount": 2055,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 51.45638146622434,
-                "percentageNegativePosts": 41.690058692719916,
-                "percentageNeutralPosts": 6.8535598410557395,
-                "sentiment": 0.03746198279319019,
-                "postsCount": 54862,
+                "percentagePositivePosts": 57.22635494155154,
+                "percentageNegativePosts": 36.556854410201915,
+                "percentageNeutralPosts": 6.216790648246546,
+                "sentiment": 0.1293783049946865,
+                "postsCount": 1882,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.755079448652005,
-                "percentageNegativePosts": 39.16406787898425,
-                "percentageNeutralPosts": 7.08085267236375,
-                "sentiment": 0.061620660699580145,
-                "postsCount": 74073,
+                "percentagePositivePosts": 58.18921668362157,
+                "percentageNegativePosts": 34.13021363173957,
+                "percentageNeutralPosts": 7.6805696846388605,
+                "sentiment": 0.1523193947100712,
+                "postsCount": 1966,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.19895287958115,
-                "percentageNegativePosts": 40.435828498655724,
-                "percentageNeutralPosts": 7.365218621763124,
-                "sentiment": 0.04914772180557521,
-                "postsCount": 70670,
+                "percentagePositivePosts": 58.931552587646074,
+                "percentageNegativePosts": 32.721202003338895,
+                "percentageNeutralPosts": 8.347245409015025,
+                "sentiment": 0.1538842348358375,
+                "postsCount": 1797,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.51294034481404,
-                "percentageNegativePosts": 39.41274267237429,
-                "percentageNeutralPosts": 7.074316982811661,
-                "sentiment": 0.056129306575554073,
-                "postsCount": 76389,
+                "percentagePositivePosts": 55.97527472527472,
+                "percentageNegativePosts": 35.85164835164835,
+                "percentageNeutralPosts": 8.173076923076923,
+                "sentiment": 0.13313186813186814,
+                "postsCount": 1456,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.226847823035676,
-                "percentageNegativePosts": 39.64012014709598,
-                "percentageNeutralPosts": 7.133032029868343,
-                "sentiment": 0.05153271481907756,
-                "postsCount": 71246,
+                "percentagePositivePosts": 62.76223776223776,
+                "percentageNegativePosts": 30.477855477855478,
+                "percentageNeutralPosts": 6.75990675990676,
+                "sentiment": 0.17817017482517483,
+                "postsCount": 1716,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 50.542411406137,
-                "percentageNegativePosts": 41.98987498708544,
-                "percentageNeutralPosts": 7.46771360677756,
-                "sentiment": 0.036125533629507184,
-                "postsCount": 48395,
+                "percentagePositivePosts": 58.4549356223176,
+                "percentageNegativePosts": 33.047210300429185,
+                "percentageNeutralPosts": 8.49785407725322,
+                "sentiment": 0.15049357081545064,
+                "postsCount": 1165,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 54.60042779716625,
-                "percentageNegativePosts": 38.88290258769038,
-                "percentageNeutralPosts": 6.5166696151433765,
-                "sentiment": 0.06343292108268064,
-                "postsCount": 62179,
+                "percentagePositivePosts": 60.319410319410316,
+                "percentageNegativePosts": 31.326781326781326,
+                "percentageNeutralPosts": 8.353808353808354,
+                "sentiment": 0.14698710073710072,
+                "postsCount": 1628,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.88993467345727,
-                "percentageNegativePosts": 44.69019382007306,
-                "percentageNeutralPosts": 7.419871506469668,
-                "sentiment": 0.010217391617326831,
-                "postsCount": 55567,
+                "percentagePositivePosts": 63.77025036818851,
+                "percentageNegativePosts": 28.8659793814433,
+                "percentageNeutralPosts": 7.363770250368188,
+                "sentiment": 0.20164948453608245,
+                "postsCount": 1358,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.11320897670965,
-                "percentageNegativePosts": 39.06929522828179,
-                "percentageNeutralPosts": 7.817495795008561,
-                "sentiment": 0.06044688072977437,
-                "postsCount": 65993,
+                "percentagePositivePosts": 63.98066075745367,
+                "percentageNegativePosts": 27.719580983078163,
+                "percentageNeutralPosts": 8.29975825946817,
+                "sentiment": 0.2149637792103143,
+                "postsCount": 1241,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.61311457358366,
-                "percentageNegativePosts": 38.91152342674668,
-                "percentageNeutralPosts": 7.4753619996696585,
-                "sentiment": 0.07119986373396466,
-                "postsCount": 72652,
+                "percentagePositivePosts": 64.86666666666666,
+                "percentageNegativePosts": 27.6,
+                "percentageNeutralPosts": 7.533333333333333,
+                "sentiment": 0.21418326666666668,
+                "postsCount": 1500,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.324698169025346,
-                "percentageNegativePosts": 40.02958343327737,
-                "percentageNeutralPosts": 7.64571839769729,
-                "sentiment": 0.05382844007355881,
-                "postsCount": 50028,
+                "percentagePositivePosts": 64.96124031007751,
+                "percentageNegativePosts": 27.751937984496124,
+                "percentageNeutralPosts": 7.286821705426356,
+                "sentiment": 0.21666662015503874,
+                "postsCount": 1290,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.73414673302296,
-                "percentageNegativePosts": 38.83287847166479,
-                "percentageNeutralPosts": 7.43297479531225,
-                "sentiment": 0.06091867876063573,
-                "postsCount": 62290,
+                "percentagePositivePosts": 50.261780104712045,
+                "percentageNegativePosts": 43.22280395578825,
+                "percentageNeutralPosts": 6.515415939499709,
+                "sentiment": 0.06335951716114019,
+                "postsCount": 1719,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.76520149431683,
-                "percentageNegativePosts": 38.814084730943485,
-                "percentageNeutralPosts": 7.420713774739687,
-                "sentiment": 0.05261731181941022,
-                "postsCount": 62905,
+                "percentagePositivePosts": 49.23928077455049,
+                "percentageNegativePosts": 42.39280774550484,
+                "percentageNeutralPosts": 8.367911479944675,
+                "sentiment": 0.06258990663900414,
+                "postsCount": 1446,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.346977716570706,
-                "percentageNegativePosts": 40.047122069388905,
-                "percentageNeutralPosts": 7.6059002140403855,
-                "sentiment": 0.034929403175762,
-                "postsCount": 60269,
+                "percentagePositivePosts": 57.13328868050904,
+                "percentageNegativePosts": 34.56128600133958,
+                "percentageNeutralPosts": 8.305425318151373,
+                "sentiment": 0.1463931882116544,
+                "postsCount": 1493,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.573108410671864,
-                "percentageNegativePosts": 39.61612743338632,
-                "percentageNeutralPosts": 7.810764155941821,
-                "sentiment": 0.05344510246286896,
-                "postsCount": 58509,
+                "percentagePositivePosts": 58.095238095238095,
+                "percentageNegativePosts": 36.36363636363637,
+                "percentageNeutralPosts": 5.541125541125541,
+                "sentiment": 0.14754978354978354,
+                "postsCount": 1155,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.020742089819755,
-                "percentageNegativePosts": 37.46874232109044,
-                "percentageNeutralPosts": 7.510515589089805,
-                "sentiment": 0.06857762745183064,
-                "postsCount": 69183,
+                "percentagePositivePosts": 56.4929693961952,
+                "percentageNegativePosts": 36.8899917287014,
+                "percentageNeutralPosts": 6.6170388751033915,
+                "sentiment": 0.10923074441687344,
+                "postsCount": 1209,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.031827321505936,
-                "percentageNegativePosts": 36.84526256151616,
-                "percentageNeutralPosts": 8.122910116977904,
-                "sentiment": 0.07892781363520224,
-                "postsCount": 90017,
+                "percentagePositivePosts": 51.64750957854406,
+                "percentageNegativePosts": 34.78927203065134,
+                "percentageNeutralPosts": 13.563218390804598,
+                "sentiment": 0.11335635249042145,
+                "postsCount": 1305,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 51.75171267378602,
-                "percentageNegativePosts": 36.825005037275844,
-                "percentageNeutralPosts": 11.423282288938143,
-                "sentiment": 0.06481602105581302,
-                "postsCount": 79408,
+                "percentagePositivePosts": 49.404761904761905,
+                "percentageNegativePosts": 42.9421768707483,
+                "percentageNeutralPosts": 7.653061224489796,
+                "sentiment": 0.0594600425170068,
+                "postsCount": 1176,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.379492805059044,
-                "percentageNegativePosts": 40.659482480480094,
-                "percentageNeutralPosts": 11.961024714460864,
-                "sentiment": 0.021827316254758988,
-                "postsCount": 77485,
+                "percentagePositivePosts": 50.17667844522968,
+                "percentageNegativePosts": 41.254416961130744,
+                "percentageNeutralPosts": 8.568904593639576,
+                "sentiment": 0.05174028268551237,
+                "postsCount": 1132,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 50.50577400964771,
-                "percentageNegativePosts": 39.82020172489402,
-                "percentageNeutralPosts": 9.674024265458266,
-                "sentiment": 0.03807235491887151,
-                "postsCount": 68410,
+                "percentagePositivePosts": 58.976582827406766,
+                "percentageNegativePosts": 31.91673894189072,
+                "percentageNeutralPosts": 9.106678230702515,
+                "sentiment": 0.15685601040763228,
+                "postsCount": 1153,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 49.00906049857957,
-                "percentageNegativePosts": 41.8766494646069,
-                "percentageNeutralPosts": 9.114290036813529,
-                "sentiment": 0.01866891694262805,
-                "postsCount": 59489,
+                "percentagePositivePosts": 61.091914305459575,
+                "percentageNegativePosts": 29.647546648237732,
+                "percentageNeutralPosts": 9.260539046302695,
+                "sentiment": 0.18738765031098825,
+                "postsCount": 1447,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 48.203175945998346,
-                "percentageNegativePosts": 42.99511799643984,
-                "percentageNeutralPosts": 8.801706057561818,
-                "sentiment": 0.011328809108373429,
-                "postsCount": 56739,
+                "percentagePositivePosts": 61.01243339253996,
+                "percentageNegativePosts": 30.550621669627,
+                "percentageNeutralPosts": 8.436944937833037,
+                "sentiment": 0.18343694493783305,
+                "postsCount": 1126,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 50.83000692286165,
-                "percentageNegativePosts": 40.678440441295606,
-                "percentageNeutralPosts": 8.491552635842748,
-                "sentiment": 0.03854752470872428,
-                "postsCount": 67891,
+                "percentagePositivePosts": 55.07880910683012,
+                "percentageNegativePosts": 36.51488616462347,
+                "percentageNeutralPosts": 8.40630472854641,
+                "sentiment": 0.1155122942206655,
+                "postsCount": 1142,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 50.88562862977392,
-                "percentageNegativePosts": 40.67084739380422,
-                "percentageNeutralPosts": 8.443523976421858,
-                "sentiment": 0.040708308833113674,
-                "postsCount": 69047,
+                "percentagePositivePosts": 56.97560975609756,
+                "percentageNegativePosts": 34.048780487804876,
+                "percentageNeutralPosts": 8.975609756097562,
+                "sentiment": 0.14105855609756096,
+                "postsCount": 1025,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.76709386202993,
-                "percentageNegativePosts": 39.13990043396856,
-                "percentageNeutralPosts": 8.09300570400151,
-                "sentiment": 0.050879250787384436,
-                "postsCount": 68899,
+                "percentagePositivePosts": 62.46600181323663,
+                "percentageNegativePosts": 28.28649138712602,
+                "percentageNeutralPosts": 9.247506799637353,
+                "sentiment": 0.1934949864007253,
+                "postsCount": 1103,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "doge,$doge,dogecoin": [
+        "safemoon": [
             {
-                "percentagePositivePosts": 61.263645385378766,
-                "percentageNegativePosts": 26.84970779578785,
-                "percentageNeutralPosts": 11.886646818833388,
-                "sentiment": 0.16916477009593117,
-                "postsCount": 9069,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.60538367027812,
-                "percentageNegativePosts": 27.756059421422986,
-                "percentageNeutralPosts": 11.638556908298895,
-                "sentiment": 0.17090250195465206,
-                "postsCount": 8953,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.72026800670017,
-                "percentageNegativePosts": 28.360552763819097,
-                "percentageNeutralPosts": 10.919179229480736,
-                "sentiment": 0.1631019472361809,
-                "postsCount": 9552,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.355205599300085,
-                "percentageNegativePosts": 31.157042869641295,
-                "percentageNeutralPosts": 10.487751531058617,
-                "sentiment": 0.15138287401574801,
-                "postsCount": 9144,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.79382632945475,
-                "percentageNegativePosts": 32.46466006346764,
-                "percentageNeutralPosts": 11.741513607077604,
-                "sentiment": 0.12191366477545917,
-                "postsCount": 10399,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.670767088313795,
-                "percentageNegativePosts": 27.921550423581294,
-                "percentageNeutralPosts": 11.407682488104909,
-                "sentiment": 0.17871242891957756,
-                "postsCount": 8617,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 61.62063574778531,
-                "percentageNegativePosts": 27.905158936946325,
-                "percentageNeutralPosts": 10.47420531526837,
-                "sentiment": 0.17079338196977592,
-                "postsCount": 7676,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.42229463984717,
-                "percentageNegativePosts": 30.01460838296438,
-                "percentageNeutralPosts": 11.563096977188447,
-                "sentiment": 0.1492903697044612,
-                "postsCount": 8899,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.60772872398987,
-                "percentageNegativePosts": 27.501926676208303,
-                "percentageNeutralPosts": 11.890344599801828,
-                "sentiment": 0.17127327975338544,
-                "postsCount": 9083,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.38921882137963,
-                "percentageNegativePosts": 29.53403380539059,
-                "percentageNeutralPosts": 13.076747373229786,
-                "sentiment": 0.15298138419369575,
-                "postsCount": 8756,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.13209494324045,
-                "percentageNegativePosts": 29.597523219814242,
-                "percentageNeutralPosts": 12.270381836945305,
-                "sentiment": 0.1462781011351909,
-                "postsCount": 9690,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.78252845278376,
-                "percentageNegativePosts": 30.083051368809596,
-                "percentageNeutralPosts": 13.134420178406645,
-                "sentiment": 0.13063212242386957,
-                "postsCount": 6502,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.09152752009895,
-                "percentageNegativePosts": 32.57884972170687,
-                "percentageNeutralPosts": 11.329622758194187,
-                "sentiment": 0.12529006802721088,
-                "postsCount": 8085,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.06242962592268,
-                "percentageNegativePosts": 31.9779807331415,
-                "percentageNeutralPosts": 10.95958964093582,
-                "sentiment": 0.13362129363192796,
-                "postsCount": 7993,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 62.14699659644927,
-                "percentageNegativePosts": 26.501701775365653,
-                "percentageNeutralPosts": 11.35130162818508,
-                "sentiment": 0.18670964032747675,
-                "postsCount": 10871,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 60.56653929224124,
-                "percentageNegativePosts": 27.587639142714735,
-                "percentageNeutralPosts": 11.845821565044027,
-                "sentiment": 0.17650358863598603,
-                "postsCount": 12038,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.92096219931271,
-                "percentageNegativePosts": 30.36426116838488,
-                "percentageNeutralPosts": 12.714776632302405,
-                "sentiment": 0.14858074226804124,
-                "postsCount": 7275,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.014051522248245,
-                "percentageNegativePosts": 31.088992974238877,
-                "percentageNeutralPosts": 11.896955503512881,
-                "sentiment": 0.14031028103044496,
-                "postsCount": 8540,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.65962333486449,
-                "percentageNegativePosts": 30.167661920073495,
-                "percentageNeutralPosts": 12.172714745062011,
-                "sentiment": 0.13748736793752872,
-                "postsCount": 8708,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.35025271534574,
-                "percentageNegativePosts": 28.86331863641252,
-                "percentageNeutralPosts": 13.786428648241747,
-                "sentiment": 0.13974562856221098,
-                "postsCount": 9299,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.24040824040824,
-                "percentageNegativePosts": 27.70742770742771,
-                "percentageNeutralPosts": 14.052164052164052,
-                "sentiment": 0.1488981288981289,
-                "postsCount": 10582,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 57.88281913388055,
-                "percentageNegativePosts": 29.342390791584112,
-                "percentageNeutralPosts": 12.774790074535334,
-                "sentiment": 0.14610854797622416,
-                "postsCount": 10599,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.249613601236476,
-                "percentageNegativePosts": 29.762364760432767,
-                "percentageNeutralPosts": 11.988021638330757,
-                "sentiment": 0.15625774729520867,
-                "postsCount": 10352,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.16312464101091,
-                "percentageNegativePosts": 31.051120045950604,
-                "percentageNeutralPosts": 12.785755313038484,
-                "sentiment": 0.1369534979896611,
-                "postsCount": 8705,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 54.0297513321492,
-                "percentageNegativePosts": 32.48223801065719,
-                "percentageNeutralPosts": 13.488010657193605,
-                "sentiment": 0.11535578374777976,
-                "postsCount": 9008,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 58.26463749735785,
-                "percentageNegativePosts": 27.66856901289368,
-                "percentageNeutralPosts": 14.066793489748468,
-                "sentiment": 0.142764225322342,
-                "postsCount": 9462,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.09368942494077,
-                "percentageNegativePosts": 30.15291837174241,
-                "percentageNeutralPosts": 14.753392203316821,
-                "sentiment": 0.12136388111135041,
-                "postsCount": 9286,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.4892981582877,
-                "percentageNegativePosts": 33.45943255350921,
-                "percentageNeutralPosts": 13.051269288203086,
-                "sentiment": 0.09575759084121453,
-                "postsCount": 10045,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.23187677883811,
-                "percentageNegativePosts": 32.04419889502763,
-                "percentageNeutralPosts": 12.72392432613427,
-                "sentiment": 0.11264943077180646,
-                "postsCount": 11946,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 54.5198308838333,
-                "percentageNegativePosts": 31.809945641232133,
-                "percentageNeutralPosts": 13.670223474934568,
-                "sentiment": 0.0974179645661365,
-                "postsCount": 9934,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 59.6104513064133,
-                "percentageNegativePosts": 27.401425178147267,
-                "percentageNeutralPosts": 12.98812351543943,
-                "sentiment": 0.13136770546318288,
-                "postsCount": 10525,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "shiba,$shiba,shiba inu": [
+        "pepe": [
             {
-                "percentagePositivePosts": 66.50160930923496,
-                "percentageNegativePosts": 26.78880911116613,
-                "percentageNeutralPosts": 6.70958157959891,
-                "sentiment": 0.2490071923743501,
-                "postsCount": 4039,
+                "percentagePositivePosts": 54.54545454545455,
+                "percentageNegativePosts": 9.090909090909092,
+                "percentageNeutralPosts": 36.36363636363637,
+                "sentiment": 0.17636362727272728,
+                "postsCount": 11,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 63.503649635036496,
-                "percentageNegativePosts": 29.526724746880152,
-                "percentageNeutralPosts": 6.969625618083353,
-                "sentiment": 0.21122203908641393,
-                "postsCount": 4247,
-                "startDate": "2024-07-02T00:00:00.000Z",
-                "endDate": "2024-07-03T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 62.56466104002178,
-                "percentageNegativePosts": 29.18595153825211,
-                "percentageNeutralPosts": 8.249387421726109,
-                "sentiment": 0.2039055540430166,
-                "postsCount": 3673,
-                "startDate": "2024-07-03T00:00:00.000Z",
-                "endDate": "2024-07-04T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 57.96972395369546,
-                "percentageNegativePosts": 34.19412288512912,
-                "percentageNeutralPosts": 7.836153161175423,
-                "sentiment": 0.15706438112199467,
-                "postsCount": 3369,
-                "startDate": "2024-07-04T00:00:00.000Z",
-                "endDate": "2024-07-05T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 60.209747069710055,
-                "percentageNegativePosts": 33.55953115360888,
-                "percentageNeutralPosts": 6.230721776681061,
-                "sentiment": 0.17379858112276375,
-                "postsCount": 3242,
-                "startDate": "2024-07-05T00:00:00.000Z",
-                "endDate": "2024-07-06T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 59.702922855773835,
-                "percentageNegativePosts": 32.31911835170101,
-                "percentageNeutralPosts": 7.977958792525156,
-                "sentiment": 0.17364396262577864,
-                "postsCount": 4174,
-                "startDate": "2024-07-06T00:00:00.000Z",
-                "endDate": "2024-07-07T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 59.91367682762341,
-                "percentageNegativePosts": 32.77582951173456,
-                "percentageNeutralPosts": 7.310493660642028,
-                "sentiment": 0.17396144051793902,
-                "postsCount": 3707,
-                "startDate": "2024-07-07T00:00:00.000Z",
-                "endDate": "2024-07-08T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 62.22687122268712,
-                "percentageNegativePosts": 30.93909809390981,
-                "percentageNeutralPosts": 6.834030683403069,
-                "sentiment": 0.20721180846118084,
-                "postsCount": 4302,
-                "startDate": "2024-07-08T00:00:00.000Z",
-                "endDate": "2024-07-09T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 61.69576059850374,
-                "percentageNegativePosts": 30.149625935162096,
-                "percentageNeutralPosts": 8.154613466334165,
-                "sentiment": 0.19643014962593516,
-                "postsCount": 4010,
-                "startDate": "2024-07-09T00:00:00.000Z",
-                "endDate": "2024-07-10T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 57.9677328049816,
-                "percentageNegativePosts": 33.39937729974526,
-                "percentageNeutralPosts": 8.63288989527314,
-                "sentiment": 0.16984007925275968,
-                "postsCount": 3533,
-                "startDate": "2024-07-10T00:00:00.000Z",
-                "endDate": "2024-07-11T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 58.79595361460647,
-                "percentageNegativePosts": 29.97779422649889,
-                "percentageNeutralPosts": 11.226252158894646,
-                "sentiment": 0.16505307179866766,
-                "postsCount": 4053,
-                "startDate": "2024-07-11T00:00:00.000Z",
-                "endDate": "2024-07-12T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 57.31254639940609,
-                "percentageNegativePosts": 33.51893095768374,
-                "percentageNeutralPosts": 9.16852264291017,
-                "sentiment": 0.1526763400148478,
-                "postsCount": 2694,
-                "startDate": "2024-07-12T00:00:00.000Z",
-                "endDate": "2024-07-13T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 57.63949751679813,
-                "percentageNegativePosts": 34.23897166228455,
-                "percentageNeutralPosts": 8.121530820917323,
-                "sentiment": 0.14420682442302074,
-                "postsCount": 3423,
-                "startDate": "2024-07-13T00:00:00.000Z",
-                "endDate": "2024-07-14T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 64.16837782340862,
-                "percentageNegativePosts": 28.576317590691307,
-                "percentageNeutralPosts": 7.255304585900069,
-                "sentiment": 0.21430358316221765,
-                "postsCount": 2922,
-                "startDate": "2024-07-14T00:00:00.000Z",
-                "endDate": "2024-07-15T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 64.84589563625266,
-                "percentageNegativePosts": 27.4641440341776,
-                "percentageNeutralPosts": 7.689960329569728,
-                "sentiment": 0.23662499237107112,
-                "postsCount": 3277,
-                "startDate": "2024-07-15T00:00:00.000Z",
-                "endDate": "2024-07-16T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 64.01869158878505,
-                "percentageNegativePosts": 26.401869158878505,
-                "percentageNeutralPosts": 9.57943925233645,
-                "sentiment": 0.23382268951194182,
-                "postsCount": 3852,
-                "startDate": "2024-07-16T00:00:00.000Z",
-                "endDate": "2024-07-17T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 64.1690340909091,
-                "percentageNegativePosts": 27.23721590909091,
-                "percentageNeutralPosts": 8.59375,
-                "sentiment": 0.2347389559659091,
-                "postsCount": 2816,
-                "startDate": "2024-07-17T00:00:00.000Z",
-                "endDate": "2024-07-18T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 55.88795213489257,
-                "percentageNegativePosts": 37.12265433777536,
-                "percentageNeutralPosts": 6.989393527332064,
-                "sentiment": 0.1308212809355453,
-                "postsCount": 3677,
-                "startDate": "2024-07-18T00:00:00.000Z",
-                "endDate": "2024-07-19T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 56.71224362958359,
-                "percentageNegativePosts": 35.5811062771908,
-                "percentageNeutralPosts": 7.706650093225606,
-                "sentiment": 0.13411592604101927,
-                "postsCount": 3218,
-                "startDate": "2024-07-19T00:00:00.000Z",
-                "endDate": "2024-07-20T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 60.80674292594822,
-                "percentageNegativePosts": 31.216134858518963,
-                "percentageNeutralPosts": 7.977122215532812,
-                "sentiment": 0.18841514148103553,
-                "postsCount": 3322,
-                "startDate": "2024-07-20T00:00:00.000Z",
-                "endDate": "2024-07-21T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 62.442314518991836,
-                "percentageNegativePosts": 30.670926517571885,
-                "percentageNeutralPosts": 6.88675896343628,
-                "sentiment": 0.20056977990770325,
-                "postsCount": 2817,
-                "startDate": "2024-07-21T00:00:00.000Z",
-                "endDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 63.0188679245283,
-                "percentageNegativePosts": 30.12578616352201,
-                "percentageNeutralPosts": 6.855345911949685,
-                "sentiment": 0.1994827169811321,
-                "postsCount": 3180,
-                "startDate": "2024-07-22T00:00:00.000Z",
-                "endDate": "2024-07-23T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 62.30474506336575,
-                "percentageNegativePosts": 27.99882110226938,
-                "percentageNeutralPosts": 9.69643383436487,
-                "sentiment": 0.21584440023577955,
-                "postsCount": 3393,
-                "startDate": "2024-07-23T00:00:00.000Z",
-                "endDate": "2024-07-24T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 58.14838300570704,
-                "percentageNegativePosts": 33.86176284083703,
-                "percentageNeutralPosts": 7.989854153455929,
-                "sentiment": 0.1583877679137603,
-                "postsCount": 3154,
-                "startDate": "2024-07-24T00:00:00.000Z",
-                "endDate": "2024-07-25T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 56.64797096667766,
-                "percentageNegativePosts": 35.20290333223359,
-                "percentageNeutralPosts": 8.14912570108875,
-                "sentiment": 0.1372005938634114,
-                "postsCount": 3031,
-                "startDate": "2024-07-25T00:00:00.000Z",
-                "endDate": "2024-07-26T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 60.23520764424844,
-                "percentageNegativePosts": 30.760749724366043,
-                "percentageNeutralPosts": 9.00404263138552,
-                "sentiment": 0.1729584821756707,
-                "postsCount": 2721,
-                "startDate": "2024-07-26T00:00:00.000Z",
-                "endDate": "2024-07-27T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 55.99764220453876,
-                "percentageNegativePosts": 35.8974358974359,
-                "percentageNeutralPosts": 8.104921898025346,
-                "sentiment": 0.15865016209843794,
-                "postsCount": 3393,
-                "startDate": "2024-07-27T00:00:00.000Z",
-                "endDate": "2024-07-28T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 59.095688748685596,
-                "percentageNegativePosts": 32.49211356466877,
-                "percentageNeutralPosts": 8.412197686645635,
-                "sentiment": 0.17916226077812827,
-                "postsCount": 2853,
-                "startDate": "2024-07-28T00:00:00.000Z",
-                "endDate": "2024-07-29T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 55.88338602037232,
-                "percentageNegativePosts": 35.33544081489287,
-                "percentageNeutralPosts": 8.781173164734808,
-                "sentiment": 0.13254126097646646,
-                "postsCount": 2847,
-                "startDate": "2024-07-29T00:00:00.000Z",
-                "endDate": "2024-07-30T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 56.14678899082569,
-                "percentageNegativePosts": 34.71559633027523,
-                "percentageNeutralPosts": 9.137614678899082,
-                "sentiment": 0.11944404403669726,
-                "postsCount": 2725,
-                "startDate": "2024-07-30T00:00:00.000Z",
-                "endDate": "2024-07-31T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 58.40637450199203,
-                "percentageNegativePosts": 32.47011952191235,
-                "percentageNeutralPosts": 9.123505976095618,
-                "sentiment": 0.14297807569721116,
-                "postsCount": 2510,
-                "startDate": "2024-07-31T00:00:00.000Z",
-                "endDate": "2024-08-01T00:00:00.000Z"
-            }
-        ],
-        "safemoon,$safemoon": [
-            {
-                "percentagePositivePosts": 41.666666666666664,
-                "percentageNegativePosts": 53.333333333333336,
-                "percentageNeutralPosts": 5,
-                "sentiment": -0.01433333,
-                "postsCount": 60,
-                "startDate": "2024-07-01T00:00:00.000Z",
-                "endDate": "2024-07-02T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 55.55555555555556,
-                "percentageNegativePosts": 33.333333333333336,
-                "percentageNeutralPosts": 11.11111111111111,
-                "sentiment": 0.08428573015873016,
-                "postsCount": 63,
-                "startDate": "2024-07-02T00:00:00.000Z",
-                "endDate": "2024-07-03T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 69.84126984126983,
-                "percentageNegativePosts": 12.698412698412698,
-                "percentageNeutralPosts": 17.46031746031746,
-                "sentiment": 0.18333331746031745,
-                "postsCount": 63,
-                "startDate": "2024-07-03T00:00:00.000Z",
-                "endDate": "2024-07-04T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 63.9344262295082,
-                "percentageNegativePosts": 22.950819672131146,
-                "percentageNeutralPosts": 13.114754098360656,
-                "sentiment": 0.15442622950819673,
-                "postsCount": 61,
-                "startDate": "2024-07-04T00:00:00.000Z",
-                "endDate": "2024-07-05T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 58.62068965517241,
-                "percentageNegativePosts": 31.03448275862069,
-                "percentageNeutralPosts": 10.344827586206897,
-                "sentiment": 0.07413793103448275,
-                "postsCount": 29,
-                "startDate": "2024-07-05T00:00:00.000Z",
-                "endDate": "2024-07-06T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 61.702127659574465,
-                "percentageNegativePosts": 31.914893617021278,
-                "percentageNeutralPosts": 6.382978723404255,
-                "sentiment": 0.12659574468085108,
-                "postsCount": 47,
-                "startDate": "2024-07-06T00:00:00.000Z",
-                "endDate": "2024-07-07T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 66.66666666666667,
-                "percentageNegativePosts": 25.641025641025642,
-                "percentageNeutralPosts": 7.6923076923076925,
-                "sentiment": 0.20307692307692307,
-                "postsCount": 39,
-                "startDate": "2024-07-07T00:00:00.000Z",
-                "endDate": "2024-07-08T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 61.53846153846154,
-                "percentageNegativePosts": 21.53846153846154,
-                "percentageNeutralPosts": 16.923076923076923,
-                "sentiment": 0.0933846,
-                "postsCount": 65,
-                "startDate": "2024-07-08T00:00:00.000Z",
-                "endDate": "2024-07-09T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 45.714285714285715,
-                "percentageNegativePosts": 22.857142857142858,
-                "percentageNeutralPosts": 31.428571428571427,
-                "sentiment": 0.06085713142857143,
-                "postsCount": 35,
-                "startDate": "2024-07-09T00:00:00.000Z",
-                "endDate": "2024-07-10T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 73.21428571428571,
-                "percentageNegativePosts": 17.857142857142858,
-                "percentageNeutralPosts": 8.928571428571429,
-                "sentiment": 0.15250001785714287,
-                "postsCount": 56,
-                "startDate": "2024-07-10T00:00:00.000Z",
-                "endDate": "2024-07-11T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 48.113207547169814,
-                "percentageNegativePosts": 7.547169811320755,
-                "percentageNeutralPosts": 44.339622641509436,
-                "sentiment": 0.10301885849056605,
-                "postsCount": 106,
-                "startDate": "2024-07-11T00:00:00.000Z",
-                "endDate": "2024-07-12T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 75,
+                "percentagePositivePosts": 73.33333333333333,
                 "percentageNegativePosts": 20,
-                "percentageNeutralPosts": 5,
-                "sentiment": 0.1635,
-                "postsCount": 40,
+                "percentageNeutralPosts": 6.666666666666667,
+                "sentiment": 0.19933331666666668,
+                "postsCount": 30,
+                "startDate": "2024-07-02T00:00:00.000Z",
+                "endDate": "2024-07-03T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 73.6842105263158,
+                "percentageNegativePosts": 5.2631578947368425,
+                "percentageNeutralPosts": 21.05263157894737,
+                "sentiment": 0.2731578947368421,
+                "postsCount": 19,
+                "startDate": "2024-07-03T00:00:00.000Z",
+                "endDate": "2024-07-04T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 57.142857142857146,
+                "percentageNegativePosts": 35.714285714285715,
+                "percentageNeutralPosts": 7.142857142857143,
+                "sentiment": 0.05357142142857143,
+                "postsCount": 14,
+                "startDate": "2024-07-04T00:00:00.000Z",
+                "endDate": "2024-07-05T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 65,
+                "percentageNegativePosts": 35,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.12,
+                "postsCount": 20,
+                "startDate": "2024-07-05T00:00:00.000Z",
+                "endDate": "2024-07-06T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 50,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.125,
+                "postsCount": 10,
+                "startDate": "2024-07-06T00:00:00.000Z",
+                "endDate": "2024-07-07T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 46.15384615384615,
+                "percentageNegativePosts": 46.15384615384615,
+                "percentageNeutralPosts": 7.6923076923076925,
+                "sentiment": -0.0038461464615384615,
+                "postsCount": 13,
+                "startDate": "2024-07-07T00:00:00.000Z",
+                "endDate": "2024-07-08T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 58.8235294117647,
+                "percentageNegativePosts": 23.529411764705884,
+                "percentageNeutralPosts": 17.647058823529413,
+                "sentiment": 0.15882351764705882,
+                "postsCount": 17,
+                "startDate": "2024-07-08T00:00:00.000Z",
+                "endDate": "2024-07-09T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 42.10526315789474,
+                "percentageNegativePosts": 42.10526315789474,
+                "percentageNeutralPosts": 15.789473684210526,
+                "sentiment": 0.01315789105263158,
+                "postsCount": 19,
+                "startDate": "2024-07-09T00:00:00.000Z",
+                "endDate": "2024-07-10T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 73.91304347826087,
+                "percentageNegativePosts": 21.73913043478261,
+                "percentageNeutralPosts": 4.3478260869565215,
+                "sentiment": 0.2230434608695652,
+                "postsCount": 23,
+                "startDate": "2024-07-10T00:00:00.000Z",
+                "endDate": "2024-07-11T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 78.94736842105263,
+                "percentageNegativePosts": 10.526315789473685,
+                "percentageNeutralPosts": 10.526315789473685,
+                "sentiment": 0.22684210526315787,
+                "postsCount": 19,
+                "startDate": "2024-07-11T00:00:00.000Z",
+                "endDate": "2024-07-12T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 78.94736842105263,
+                "percentageNegativePosts": 21.05263157894737,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.31,
+                "postsCount": 19,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 67.44186046511628,
-                "percentageNegativePosts": 27.906976744186046,
-                "percentageNeutralPosts": 4.651162790697675,
-                "sentiment": 0.1544185906976744,
-                "postsCount": 43,
+                "percentagePositivePosts": 33.333333333333336,
+                "percentageNegativePosts": 44.44444444444444,
+                "percentageNeutralPosts": 22.22222222222222,
+                "sentiment": 0.03833333666666667,
+                "postsCount": 18,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 81.81818181818181,
-                "percentageNegativePosts": 13.636363636363637,
-                "percentageNeutralPosts": 4.545454545454546,
-                "sentiment": 0.25681818181818183,
-                "postsCount": 22,
+                "percentagePositivePosts": 54.83870967741935,
+                "percentageNegativePosts": 32.25806451612903,
+                "percentageNeutralPosts": 12.903225806451612,
+                "sentiment": 0.1348387193548387,
+                "postsCount": 31,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 65.95744680851064,
-                "percentageNegativePosts": 29.78723404255319,
-                "percentageNeutralPosts": 4.25531914893617,
-                "sentiment": 0.11446806382978723,
-                "postsCount": 47,
+                "percentagePositivePosts": 61.111111111111114,
+                "percentageNegativePosts": 16.666666666666668,
+                "percentageNeutralPosts": 22.22222222222222,
+                "sentiment": 0.18611111666666666,
+                "postsCount": 18,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 75,
-                "percentageNegativePosts": 21.153846153846153,
-                "percentageNeutralPosts": 3.8461538461538463,
-                "sentiment": 0.22038463461538463,
-                "postsCount": 52,
-                "startDate": "2024-07-16T00:00:00.000Z",
-                "endDate": "2024-07-17T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 64.15094339622641,
-                "percentageNegativePosts": 24.528301886792452,
-                "percentageNeutralPosts": 11.320754716981131,
-                "sentiment": 0.16169813207547168,
-                "postsCount": 53,
-                "startDate": "2024-07-17T00:00:00.000Z",
-                "endDate": "2024-07-18T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 72.34042553191489,
-                "percentageNegativePosts": 17.02127659574468,
-                "percentageNeutralPosts": 10.638297872340425,
-                "sentiment": 0.19553193617021278,
-                "postsCount": 47,
-                "startDate": "2024-07-18T00:00:00.000Z",
-                "endDate": "2024-07-19T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 79.16666666666667,
-                "percentageNegativePosts": 18.055555555555557,
-                "percentageNeutralPosts": 2.7777777777777777,
-                "sentiment": 0.20972220833333333,
-                "postsCount": 72,
-                "startDate": "2024-07-19T00:00:00.000Z",
-                "endDate": "2024-07-20T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 76.19047619047619,
-                "percentageNegativePosts": 17.46031746031746,
-                "percentageNeutralPosts": 6.349206349206349,
-                "sentiment": 0.24873019047619047,
-                "postsCount": 63,
-                "startDate": "2024-07-20T00:00:00.000Z",
-                "endDate": "2024-07-21T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 68.88888888888889,
-                "percentageNegativePosts": 25.555555555555557,
-                "percentageNeutralPosts": 5.555555555555555,
-                "sentiment": 0.21766664444444445,
-                "postsCount": 90,
-                "startDate": "2024-07-21T00:00:00.000Z",
-                "endDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 68.42105263157895,
-                "percentageNegativePosts": 26.31578947368421,
-                "percentageNeutralPosts": 5.2631578947368425,
-                "sentiment": 0.19140352631578947,
-                "postsCount": 57,
-                "startDate": "2024-07-22T00:00:00.000Z",
-                "endDate": "2024-07-23T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 56.33802816901409,
-                "percentageNegativePosts": 32.394366197183096,
-                "percentageNeutralPosts": 11.267605633802816,
-                "sentiment": 0.025211267605633803,
-                "postsCount": 71,
-                "startDate": "2024-07-23T00:00:00.000Z",
-                "endDate": "2024-07-24T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 79.24528301886792,
-                "percentageNegativePosts": 16.9811320754717,
-                "percentageNeutralPosts": 3.7735849056603774,
-                "sentiment": 0.2183019245283019,
-                "postsCount": 53,
-                "startDate": "2024-07-24T00:00:00.000Z",
-                "endDate": "2024-07-25T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 71.15384615384616,
-                "percentageNegativePosts": 23.076923076923077,
-                "percentageNeutralPosts": 5.769230769230769,
-                "sentiment": 0.2503846057692308,
-                "postsCount": 52,
-                "startDate": "2024-07-25T00:00:00.000Z",
-                "endDate": "2024-07-26T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 73.80952380952381,
-                "percentageNegativePosts": 16.666666666666668,
-                "percentageNeutralPosts": 9.523809523809524,
-                "sentiment": 0.2876190714285714,
-                "postsCount": 42,
-                "startDate": "2024-07-26T00:00:00.000Z",
-                "endDate": "2024-07-27T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 75.47169811320755,
-                "percentageNegativePosts": 20.754716981132077,
-                "percentageNeutralPosts": 3.7735849056603774,
-                "sentiment": 0.22037737735849058,
-                "postsCount": 53,
-                "startDate": "2024-07-27T00:00:00.000Z",
-                "endDate": "2024-07-28T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 56.52173913043478,
-                "percentageNegativePosts": 36.95652173913044,
-                "percentageNeutralPosts": 6.521739130434782,
-                "sentiment": 0.09521736956521738,
-                "postsCount": 46,
-                "startDate": "2024-07-28T00:00:00.000Z",
-                "endDate": "2024-07-29T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 70.58823529411765,
-                "percentageNegativePosts": 23.529411764705884,
-                "percentageNeutralPosts": 5.882352941176471,
-                "sentiment": 0.1688235294117647,
-                "postsCount": 34,
-                "startDate": "2024-07-29T00:00:00.000Z",
-                "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
                 "percentagePositivePosts": 76.92307692307692,
-                "percentageNegativePosts": 23.076923076923077,
+                "percentageNegativePosts": 15.384615384615385,
+                "percentageNeutralPosts": 7.6923076923076925,
+                "sentiment": 0.2699999846153846,
+                "postsCount": 13,
+                "startDate": "2024-07-16T00:00:00.000Z",
+                "endDate": "2024-07-17T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 62.5,
+                "percentageNegativePosts": 25,
+                "percentageNeutralPosts": 12.5,
+                "sentiment": 0.21875,
+                "postsCount": 16,
+                "startDate": "2024-07-17T00:00:00.000Z",
+                "endDate": "2024-07-18T00:00:00.000Z"
+            },
+            {
+                "percentagePositivePosts": 46.15384615384615,
+                "percentageNegativePosts": 53.84615384615385,
                 "percentageNeutralPosts": 0,
-                "sentiment": 0.15153848717948717,
-                "postsCount": 39,
-                "startDate": "2024-07-30T00:00:00.000Z",
-                "endDate": "2024-07-31T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 60.37735849056604,
-                "percentageNegativePosts": 30.18867924528302,
-                "percentageNeutralPosts": 9.433962264150944,
-                "sentiment": 0.13830189433962264,
-                "postsCount": 53,
-                "startDate": "2024-07-31T00:00:00.000Z",
-                "endDate": "2024-08-01T00:00:00.000Z"
-            }
-        ],
-        "pepe,pepecoin,$pepe,pepe token": [
-            {
-                "percentagePositivePosts": 52.279390208150105,
-                "percentageNegativePosts": 37.34242157725007,
-                "percentageNeutralPosts": 10.378188214599824,
-                "sentiment": 0.06329924508941659,
-                "postsCount": 13644,
-                "startDate": "2024-07-01T00:00:00.000Z",
-                "endDate": "2024-07-02T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 52.102728731942214,
-                "percentageNegativePosts": 38.12199036918138,
-                "percentageNeutralPosts": 9.775280898876405,
-                "sentiment": 0.05798675361155698,
-                "postsCount": 12460,
-                "startDate": "2024-07-02T00:00:00.000Z",
-                "endDate": "2024-07-03T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 53.28959526889669,
-                "percentageNegativePosts": 35.80669007577158,
-                "percentageNeutralPosts": 10.903714655331731,
-                "sentiment": 0.07889714932544815,
-                "postsCount": 10822,
-                "startDate": "2024-07-03T00:00:00.000Z",
-                "endDate": "2024-07-04T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 51.85807656395892,
-                "percentageNegativePosts": 37.749766573295986,
-                "percentageNeutralPosts": 10.392156862745098,
-                "sentiment": 0.07114564892623716,
-                "postsCount": 10710,
-                "startDate": "2024-07-04T00:00:00.000Z",
-                "endDate": "2024-07-05T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 46.587954178087,
-                "percentageNegativePosts": 42.23768360390751,
-                "percentageNeutralPosts": 11.174362218005482,
-                "sentiment": 0.027653380420268464,
-                "postsCount": 14229,
-                "startDate": "2024-07-05T00:00:00.000Z",
-                "endDate": "2024-07-06T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 45.79313869545774,
-                "percentageNegativePosts": 44.310994697502075,
-                "percentageNeutralPosts": 9.895866607040183,
-                "sentiment": 0.015586471602887626,
-                "postsCount": 15653,
-                "startDate": "2024-07-06T00:00:00.000Z",
-                "endDate": "2024-07-07T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 46.50718665192482,
-                "percentageNegativePosts": 43.270680470399036,
-                "percentageNeutralPosts": 10.222132877676149,
-                "sentiment": 0.019871848426977586,
-                "postsCount": 9949,
-                "startDate": "2024-07-07T00:00:00.000Z",
-                "endDate": "2024-07-08T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 53.58294659010462,
-                "percentageNegativePosts": 36.76551561393849,
-                "percentageNeutralPosts": 9.651537795956894,
-                "sentiment": 0.08103279320380713,
-                "postsCount": 12713,
-                "startDate": "2024-07-08T00:00:00.000Z",
-                "endDate": "2024-07-09T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 53.71236360653048,
-                "percentageNegativePosts": 35.63048650422512,
-                "percentageNeutralPosts": 10.657149889244401,
-                "sentiment": 0.08745753548281238,
-                "postsCount": 12189,
-                "startDate": "2024-07-09T00:00:00.000Z",
-                "endDate": "2024-07-10T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 56.59906647352326,
-                "percentageNegativePosts": 33.78400128762273,
-                "percentageNeutralPosts": 9.616932238854016,
-                "sentiment": 0.11337645259938839,
-                "postsCount": 12426,
-                "startDate": "2024-07-10T00:00:00.000Z",
-                "endDate": "2024-07-11T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 51.65535160506244,
-                "percentageNegativePosts": 36.35906462157405,
-                "percentageNeutralPosts": 11.985583773363507,
-                "sentiment": 0.06650867488056324,
-                "postsCount": 11931,
-                "startDate": "2024-07-11T00:00:00.000Z",
-                "endDate": "2024-07-12T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 48.69655891553702,
-                "percentageNegativePosts": 40.51674197659599,
-                "percentageNeutralPosts": 10.78669910786699,
-                "sentiment": 0.03634282586027112,
-                "postsCount": 8631,
-                "startDate": "2024-07-12T00:00:00.000Z",
-                "endDate": "2024-07-13T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 49.78923634937751,
-                "percentageNegativePosts": 39.358886383687874,
-                "percentageNeutralPosts": 10.851877266934615,
-                "sentiment": 0.0384491745907264,
-                "postsCount": 10201,
-                "startDate": "2024-07-13T00:00:00.000Z",
-                "endDate": "2024-07-14T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 53.7183264584561,
-                "percentageNegativePosts": 35.898644667059514,
-                "percentageNeutralPosts": 10.383028874484385,
-                "sentiment": 0.07218679316440778,
-                "postsCount": 8485,
-                "startDate": "2024-07-14T00:00:00.000Z",
-                "endDate": "2024-07-15T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 55.24708947325572,
-                "percentageNegativePosts": 33.7214035659041,
-                "percentageNeutralPosts": 11.031506960840186,
-                "sentiment": 0.09830904502157453,
-                "postsCount": 12283,
-                "startDate": "2024-07-15T00:00:00.000Z",
-                "endDate": "2024-07-16T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 79.11514344764774,
-                "percentageNegativePosts": 16.16632220548569,
-                "percentageNeutralPosts": 4.718534346866571,
-                "sentiment": 0.3262507268714751,
-                "postsCount": 28547,
-                "startDate": "2024-07-16T00:00:00.000Z",
-                "endDate": "2024-07-17T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 84.07822367080873,
-                "percentageNegativePosts": 12.48319413322469,
-                "percentageNeutralPosts": 3.438582195966592,
-                "sentiment": 0.3737722143002648,
-                "postsCount": 24545,
-                "startDate": "2024-07-17T00:00:00.000Z",
-                "endDate": "2024-07-18T00:00:00.000Z"
-            },
-            {
-                "percentagePositivePosts": 79.75576776810614,
-                "percentageNegativePosts": 16.27228936026367,
-                "percentageNeutralPosts": 3.9719428716301866,
-                "sentiment": 0.33011489056029747,
-                "postsCount": 23666,
+                "sentiment": -0.09461538461538462,
+                "postsCount": 13,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.04171822520771,
-                "percentageNegativePosts": 37.944140003535445,
-                "percentageNeutralPosts": 10.01414177125685,
-                "sentiment": 0.06153570532084143,
-                "postsCount": 11314,
+                "percentagePositivePosts": 81.25,
+                "percentageNegativePosts": 12.5,
+                "percentageNeutralPosts": 6.25,
+                "sentiment": 0.2212500125,
+                "postsCount": 16,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.08849557522124,
-                "percentageNegativePosts": 34.417083493651404,
-                "percentageNeutralPosts": 10.494420931127356,
-                "sentiment": 0.09524720469411312,
-                "postsCount": 10396,
+                "percentagePositivePosts": 69.6969696969697,
+                "percentageNegativePosts": 21.21212121212121,
+                "percentageNeutralPosts": 9.090909090909092,
+                "sentiment": 0.3006818636363636,
+                "postsCount": 66,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 54.127032832157106,
-                "percentageNegativePosts": 33.84473764958576,
-                "percentageNeutralPosts": 12.028229518257135,
-                "sentiment": 0.08154137670041936,
-                "postsCount": 9777,
+                "percentagePositivePosts": 69.6969696969697,
+                "percentageNegativePosts": 9.090909090909092,
+                "percentageNeutralPosts": 21.21212121212121,
+                "sentiment": 0.2786363636363636,
+                "postsCount": 33,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 54.26768814781433,
-                "percentageNegativePosts": 34.56511942316359,
-                "percentageNeutralPosts": 11.167192429022082,
-                "sentiment": 0.08589320414601172,
-                "postsCount": 11095,
+                "percentagePositivePosts": 35.714285714285715,
+                "percentageNegativePosts": 57.142857142857146,
+                "percentageNeutralPosts": 7.142857142857143,
+                "sentiment": -0.08285714285714285,
+                "postsCount": 14,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.584310850439884,
-                "percentageNegativePosts": 36.09787390029326,
-                "percentageNeutralPosts": 11.317815249266863,
-                "sentiment": 0.07463710593841642,
-                "postsCount": 10912,
+                "percentagePositivePosts": 43.75,
+                "percentageNegativePosts": 31.25,
+                "percentageNeutralPosts": 25,
+                "sentiment": 0.100625,
+                "postsCount": 16,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 55.22528696248072,
-                "percentageNegativePosts": 34.375535377762546,
-                "percentageNeutralPosts": 10.399177659756724,
-                "sentiment": 0.09806148706527326,
-                "postsCount": 11674,
+                "percentagePositivePosts": 66.66666666666667,
+                "percentageNegativePosts": 20.833333333333332,
+                "percentageNeutralPosts": 12.5,
+                "sentiment": 0.24666665,
+                "postsCount": 24,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 48.547476759628154,
-                "percentageNegativePosts": 41.625166002656044,
-                "percentageNeutralPosts": 9.827357237715804,
-                "sentiment": 0.03780876494023904,
-                "postsCount": 12048,
+                "percentagePositivePosts": 30,
+                "percentageNegativePosts": 40,
+                "percentageNeutralPosts": 30,
+                "sentiment": 0.024999997,
+                "postsCount": 20,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 50.27345044746437,
-                "percentageNegativePosts": 39.31057341730195,
-                "percentageNeutralPosts": 10.415976135233675,
-                "sentiment": 0.048759943652635064,
-                "postsCount": 12068,
+                "percentagePositivePosts": 76.19047619047619,
+                "percentageNegativePosts": 19.047619047619047,
+                "percentageNeutralPosts": 4.761904761904762,
+                "sentiment": 0.2757142857142857,
+                "postsCount": 21,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.910737386804655,
-                "percentageNegativePosts": 36.27425614489004,
-                "percentageNeutralPosts": 10.815006468305304,
-                "sentiment": 0.0690500129366106,
-                "postsCount": 11595,
+                "percentagePositivePosts": 68.42105263157895,
+                "percentageNegativePosts": 15.789473684210526,
+                "percentageNeutralPosts": 15.789473684210526,
+                "sentiment": 0.2584210684210526,
+                "postsCount": 19,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 53.04975922953451,
-                "percentageNegativePosts": 37.459871589085076,
-                "percentageNeutralPosts": 9.490369181380418,
-                "sentiment": 0.056038827247191,
-                "postsCount": 9968,
+                "percentagePositivePosts": 66.66666666666667,
+                "percentageNegativePosts": 28.571428571428573,
+                "percentageNeutralPosts": 4.761904761904762,
+                "sentiment": 0.22047619047619046,
+                "postsCount": 21,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 52.06393816968207,
-                "percentageNegativePosts": 36.73809942034077,
-                "percentageNeutralPosts": 11.197962409977166,
-                "sentiment": 0.06322150887054277,
-                "postsCount": 11386,
+                "percentagePositivePosts": 77.77777777777777,
+                "percentageNegativePosts": 22.22222222222222,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.25111111111111106,
+                "postsCount": 9,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 50.94230769230769,
-                "percentageNegativePosts": 38.47115384615385,
-                "percentageNeutralPosts": 10.586538461538462,
-                "sentiment": 0.05617740961538461,
-                "postsCount": 10400,
+                "percentagePositivePosts": 70,
+                "percentageNegativePosts": 25,
+                "percentageNeutralPosts": 5,
+                "sentiment": 0.14749999,
+                "postsCount": 20,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 56.040987424312995,
-                "percentageNegativePosts": 33.497904052165815,
-                "percentageNeutralPosts": 10.461108523521192,
-                "sentiment": 0.09776339077782953,
-                "postsCount": 10735,
+                "percentagePositivePosts": 50,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 0,
+                "sentiment": -0.10749999375,
+                "postsCount": 8,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
         ],
-        "wif,$wif,wif token,wif coin,wif finance": [
+        "wif": [
             {
-                "percentagePositivePosts": 47.12833479539708,
-                "percentageNegativePosts": 44.80623355178286,
-                "percentageNeutralPosts": 8.065431652820063,
-                "sentiment": -0.005749266732029517,
-                "postsCount": 19379,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.29833333333333334,
+                "postsCount": 6,
                 "startDate": "2024-07-01T00:00:00.000Z",
                 "endDate": "2024-07-02T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 45.216904846666324,
-                "percentageNegativePosts": 46.834155520520774,
-                "percentageNeutralPosts": 7.948939632812897,
-                "sentiment": -0.028569653664242484,
-                "postsCount": 19663,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.37,
+                "postsCount": 4,
                 "startDate": "2024-07-02T00:00:00.000Z",
                 "endDate": "2024-07-03T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.08844133099825,
-                "percentageNegativePosts": 44.943082311733804,
-                "percentageNeutralPosts": 7.968476357267951,
-                "sentiment": -0.0017816867338003503,
-                "postsCount": 18272,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.13,
+                "postsCount": 2,
                 "startDate": "2024-07-03T00:00:00.000Z",
                 "endDate": "2024-07-04T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.3871667872447,
-                "percentageNegativePosts": 44.804941844287384,
-                "percentageNeutralPosts": 7.807891368467917,
-                "sentiment": -0.007887477878568645,
-                "postsCount": 17969,
+                "percentagePositivePosts": 50,
+                "percentageNegativePosts": 12.5,
+                "percentageNeutralPosts": 37.5,
+                "sentiment": 0.1775000125,
+                "postsCount": 8,
                 "startDate": "2024-07-04T00:00:00.000Z",
                 "endDate": "2024-07-05T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.50785340314136,
-                "percentageNegativePosts": 45.09947643979058,
-                "percentageNeutralPosts": 8.392670157068062,
-                "sentiment": -0.016557069109947645,
-                "postsCount": 19100,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.28,
+                "postsCount": 1,
                 "startDate": "2024-07-05T00:00:00.000Z",
                 "endDate": "2024-07-06T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 48.49452554744526,
-                "percentageNegativePosts": 43.73479318734793,
-                "percentageNeutralPosts": 7.770681265206813,
-                "sentiment": -0.0029736937347931876,
-                "postsCount": 19728,
+                "percentagePositivePosts": 66.66666666666667,
+                "percentageNegativePosts": 33.333333333333336,
+                "percentageNeutralPosts": 0,
+                "sentiment": -0.026666661666666664,
+                "postsCount": 6,
                 "startDate": "2024-07-06T00:00:00.000Z",
                 "endDate": "2024-07-07T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.14874238494481,
-                "percentageNegativePosts": 46.55286808613306,
-                "percentageNeutralPosts": 7.29838952892213,
-                "sentiment": -0.014689969841365582,
-                "postsCount": 16579,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.282,
+                "postsCount": 5,
                 "startDate": "2024-07-07T00:00:00.000Z",
                 "endDate": "2024-07-08T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.64419836302359,
-                "percentageNegativePosts": 44.49205584978334,
-                "percentageNeutralPosts": 8.863745787193066,
-                "sentiment": -0.00847496196437169,
-                "postsCount": 20770,
+                "percentagePositivePosts": 33.333333333333336,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 16.666666666666668,
+                "sentiment": -0.010000000333333333,
+                "postsCount": 6,
                 "startDate": "2024-07-08T00:00:00.000Z",
                 "endDate": "2024-07-09T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.17520533647956,
-                "percentageNegativePosts": 44.21654490175614,
-                "percentageNeutralPosts": 8.608249761764306,
-                "sentiment": -0.010511410355311522,
-                "postsCount": 22037,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.350000025,
+                "postsCount": 2,
                 "startDate": "2024-07-09T00:00:00.000Z",
                 "endDate": "2024-07-10T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 42.319327731092436,
-                "percentageNegativePosts": 49.588235294117645,
-                "percentageNeutralPosts": 8.092436974789916,
-                "sentiment": -0.057468281512605045,
-                "postsCount": 23800,
+                "percentagePositivePosts": 83.33333333333333,
+                "percentageNegativePosts": 16.666666666666668,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.285,
+                "postsCount": 6,
                 "startDate": "2024-07-10T00:00:00.000Z",
                 "endDate": "2024-07-11T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 41.347889245939164,
-                "percentageNegativePosts": 49.88774926266672,
-                "percentageNeutralPosts": 8.76436149139411,
-                "sentiment": -0.06736056257428358,
-                "postsCount": 22717,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-11T00:00:00.000Z",
                 "endDate": "2024-07-12T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 42.890297747084794,
-                "percentageNegativePosts": 48.53956753085022,
-                "percentageNeutralPosts": 8.570134722064983,
-                "sentiment": -0.04694497679157704,
-                "postsCount": 17666,
+                "percentagePositivePosts": 25,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 25,
+                "sentiment": -0.067499995,
+                "postsCount": 4,
                 "startDate": "2024-07-12T00:00:00.000Z",
                 "endDate": "2024-07-13T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 45.34524851444102,
-                "percentageNegativePosts": 46.08227002625639,
-                "percentageNeutralPosts": 8.572481459302594,
-                "sentiment": -0.026149753558431982,
-                "postsCount": 21709,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.325,
+                "postsCount": 2,
                 "startDate": "2024-07-13T00:00:00.000Z",
                 "endDate": "2024-07-14T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.94905670076595,
-                "percentageNegativePosts": 44.60494525266026,
-                "percentageNeutralPosts": 8.445998046573793,
-                "sentiment": -0.01684958721019894,
-                "postsCount": 19453,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.72,
+                "postsCount": 1,
                 "startDate": "2024-07-14T00:00:00.000Z",
                 "endDate": "2024-07-15T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.95843655381228,
-                "percentageNegativePosts": 44.256353793926046,
-                "percentageNeutralPosts": 8.785209652261676,
-                "sentiment": -0.010774613267272226,
-                "postsCount": 21798,
+                "percentagePositivePosts": 70,
+                "percentageNegativePosts": 30,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.254,
+                "postsCount": 10,
                 "startDate": "2024-07-15T00:00:00.000Z",
                 "endDate": "2024-07-16T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.34931111294448,
-                "percentageNegativePosts": 44.83953469185711,
-                "percentageNeutralPosts": 8.811154195198416,
-                "sentiment": -0.011698910980942168,
-                "postsCount": 24242,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.587,
+                "postsCount": 10,
                 "startDate": "2024-07-16T00:00:00.000Z",
                 "endDate": "2024-07-17T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 48.011197947043044,
-                "percentageNegativePosts": 43.572844978420626,
-                "percentageNeutralPosts": 8.415957074536335,
-                "sentiment": 0.00080572390061822,
-                "postsCount": 17146,
+                "percentagePositivePosts": 50,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 0,
+                "sentiment": -0.11999999,
+                "postsCount": 2,
                 "startDate": "2024-07-17T00:00:00.000Z",
                 "endDate": "2024-07-18T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.599810907215605,
-                "percentageNegativePosts": 44.037130946753194,
-                "percentageNeutralPosts": 8.3630581460312,
-                "sentiment": -0.008295156646181615,
-                "postsCount": 23269,
+                "percentagePositivePosts": 87.5,
+                "percentageNegativePosts": 12.5,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.410000025,
+                "postsCount": 8,
                 "startDate": "2024-07-18T00:00:00.000Z",
                 "endDate": "2024-07-19T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.608877721943045,
-                "percentageNegativePosts": 43.58877721943048,
-                "percentageNeutralPosts": 8.802345058626466,
-                "sentiment": -0.0024183413735343385,
-                "postsCount": 23880,
+                "percentagePositivePosts": 33.333333333333336,
+                "percentageNegativePosts": 33.333333333333336,
+                "percentageNeutralPosts": 33.333333333333336,
+                "sentiment": 0.27999999999999997,
+                "postsCount": 3,
                 "startDate": "2024-07-19T00:00:00.000Z",
                 "endDate": "2024-07-20T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.615338800568104,
-                "percentageNegativePosts": 42.44742749805287,
-                "percentageNeutralPosts": 9.937233701379027,
-                "sentiment": -0.006770742200027488,
-                "postsCount": 21827,
+                "percentagePositivePosts": 66.66666666666667,
+                "percentageNegativePosts": 33.333333333333336,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.14666666666666667,
+                "postsCount": 3,
                 "startDate": "2024-07-20T00:00:00.000Z",
                 "endDate": "2024-07-21T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.26587336826214,
-                "percentageNegativePosts": 44.525352988189326,
-                "percentageNeutralPosts": 9.20877364354853,
-                "sentiment": -0.033345835183376256,
-                "postsCount": 22522,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.3566666333333333,
+                "postsCount": 3,
                 "startDate": "2024-07-21T00:00:00.000Z",
                 "endDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 44.199439864305155,
-                "percentageNegativePosts": 47.489250917123584,
-                "percentageNeutralPosts": 8.31130921857126,
-                "sentiment": -0.059076182399116405,
-                "postsCount": 25351,
+                "percentagePositivePosts": 80,
+                "percentageNegativePosts": 20,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.154,
+                "postsCount": 5,
                 "startDate": "2024-07-22T00:00:00.000Z",
                 "endDate": "2024-07-23T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.819849729163025,
-                "percentageNegativePosts": 44.78857242704875,
-                "percentageNeutralPosts": 8.391577843788223,
-                "sentiment": -0.021065003494670626,
-                "postsCount": 22892,
+                "percentagePositivePosts": 50,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.099999995,
+                "postsCount": 2,
                 "startDate": "2024-07-23T00:00:00.000Z",
                 "endDate": "2024-07-24T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 47.29842408071375,
-                "percentageNegativePosts": 44.75944300842158,
-                "percentageNeutralPosts": 7.942132910864671,
-                "sentiment": -0.013070328524972901,
-                "postsCount": 23986,
+                "percentagePositivePosts": 75,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 25,
+                "sentiment": 0.195000025,
+                "postsCount": 4,
                 "startDate": "2024-07-24T00:00:00.000Z",
                 "endDate": "2024-07-25T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 49.908049820279196,
-                "percentageNegativePosts": 41.515506143943824,
-                "percentageNeutralPosts": 8.576444035776978,
-                "sentiment": 0.01036612638970158,
-                "postsCount": 23926,
+                "percentagePositivePosts": 40,
+                "percentageNegativePosts": 50,
+                "percentageNeutralPosts": 10,
+                "sentiment": -0.053000000000000005,
+                "postsCount": 10,
                 "startDate": "2024-07-25T00:00:00.000Z",
                 "endDate": "2024-07-26T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 49.7790404040404,
-                "percentageNegativePosts": 41.425978535353536,
-                "percentageNeutralPosts": 8.79498106060606,
-                "sentiment": 0.006754655934343434,
-                "postsCount": 25344,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.655,
+                "postsCount": 2,
                 "startDate": "2024-07-26T00:00:00.000Z",
                 "endDate": "2024-07-27T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 51.52212253661529,
-                "percentageNegativePosts": 40.05827773943716,
-                "percentageNeutralPosts": 8.41959972394755,
-                "sentiment": 0.023751439690207807,
-                "postsCount": 26082,
+                "percentagePositivePosts": 20,
+                "percentageNegativePosts": 20,
+                "percentageNeutralPosts": 60,
+                "sentiment": 0.106000006,
+                "postsCount": 5,
                 "startDate": "2024-07-27T00:00:00.000Z",
                 "endDate": "2024-07-28T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 49.16242120714964,
-                "percentageNegativePosts": 42.388394784560916,
-                "percentageNeutralPosts": 8.44918400828944,
-                "sentiment": 0.003425439685692082,
-                "postsCount": 23162,
+                "percentagePositivePosts": 28.571428571428573,
+                "percentageNegativePosts": 28.571428571428573,
+                "percentageNeutralPosts": 42.857142857142854,
+                "sentiment": 0.04285713571428572,
+                "postsCount": 7,
                 "startDate": "2024-07-28T00:00:00.000Z",
                 "endDate": "2024-07-29T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 46.52986319652986,
-                "percentageNegativePosts": 44.92826159492826,
-                "percentageNeutralPosts": 8.541875208541875,
-                "sentiment": -0.02598953370036703,
-                "postsCount": 23976,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.45999998,
+                "postsCount": 2,
                 "startDate": "2024-07-29T00:00:00.000Z",
                 "endDate": "2024-07-30T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 41.95567368285678,
-                "percentageNegativePosts": 50.7523470656321,
-                "percentageNeutralPosts": 7.291979251511124,
-                "sentiment": -0.06547392292193595,
-                "postsCount": 23327,
+                "percentagePositivePosts": null,
+                "percentageNegativePosts": null,
+                "percentageNeutralPosts": null,
+                "sentiment": null,
+                "postsCount": 0,
                 "startDate": "2024-07-30T00:00:00.000Z",
                 "endDate": "2024-07-31T00:00:00.000Z"
             },
             {
-                "percentagePositivePosts": 45.34041080083083,
-                "percentageNegativePosts": 47.21440110777752,
-                "percentageNeutralPosts": 7.445188091391645,
-                "sentiment": -0.025541421647819064,
-                "postsCount": 21665,
+                "percentagePositivePosts": 100,
+                "percentageNegativePosts": 0,
+                "percentageNeutralPosts": 0,
+                "sentiment": 0.22,
+                "postsCount": 1,
                 "startDate": "2024-07-31T00:00:00.000Z",
                 "endDate": "2024-08-01T00:00:00.000Z"
             }
