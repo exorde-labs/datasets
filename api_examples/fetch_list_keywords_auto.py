@@ -85,15 +85,15 @@ def fetch_data_for_keywords(api_url, api_key, start_date, end_date, interval, li
         results = {}
         for idx, url in enumerate(api_url):
             data = fetch_data_for_keywords(url, api_key, start_date, end_date, interval, limit, keywords_dict, output_format, keywords_condition)
-            results[idx] = data
+            results[url] = data
         return results
     else:
         results = {}
-        for keywords in keywords_dict.values():
+        for (key,keywords) in zip(keywords_dict.keys(), keywords_dict.values()):
             print(f"Fetching data for keywords: {keywords}")
             keywords_str = ','.join(keywords)
             data = fetch_data(api_url, api_key, start_date, end_date, interval, limit, keywords_str, keywords_condition)
-            results[keywords_str] = data
+            results[key] = data
 
     if output_format == 'json':
         return json.dumps(results, indent=4)
@@ -101,7 +101,7 @@ def fetch_data_for_keywords(api_url, api_key, start_date, end_date, interval, li
 
 
 if __name__ == "__main__":
-    # Example usage
+    # Example usage    
     api_key = ''  # Replace with your actual API key
     # Set the API URLs for metrics we want to fetch
     api_url = ["https://api.exorde.io/volume/history", "https://api.exorde.io/sentiment/history"]
@@ -113,13 +113,11 @@ if __name__ == "__main__":
 
     ## Set the keywords to search for
     keywords_dict = { # keys of the dict are free identifiers
-        "bitcoin":['btc', '$btc', 'bitcoin'],
-        "ethereum":['eth', '$eth', 'ethereum'],
-        "memecoin_dogecoin":['doge', '$doge', 'dogecoin'],
-        "memecoin_shiba":['shiba', '$shiba', 'shiba inu'],
-        "memecoin_safemoon":['safemoon', '$safemoon'],
-        "memecoin_pepe": ["pepe", "pepecoin", "$pepe","pepe token"],
-        "memecoin_wif": ["wif","$wif", "wif token", "wif coin", "wif finance"], # not used yet bc we don't have the price data
+        "memecoin_dogecoin":['$doge', 'dogecoin'],
+        "memecoin_shiba":['$shiba', 'shiba inu'],
+        "memecoin_safemoon":['$safemoon'],
+        "memecoin_pepe": ["$pepe","pepe token"],
+        "memecoin_wif": ["$wif", "wif token"],
     }
     
 
